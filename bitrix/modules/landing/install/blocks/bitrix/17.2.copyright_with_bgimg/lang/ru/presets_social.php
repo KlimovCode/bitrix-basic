@@ -1,0 +1,3 @@
+<?php
+$MESS['LANDING_BLOCK_17.2.COPYRIGHT_WITH_SOCIAL__PRESET_VK'] = 'Р’РљРѕРЅС‚Р°РєС‚Рµ';
+$MESS['LANDING_BLOCK_17.2.COPYRIGHT_WITH_SOCIAL__PRESET_OK'] = 'РћРґРЅРѕРєР»Р°СЃСЃРЅРёРєРё';

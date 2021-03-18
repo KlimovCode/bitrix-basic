@@ -1,0 +1,33 @@
+<?
+$MESS ['MAIN_RATING_LIST'] = "РЎРїРёСЃРѕРє СЂРµР№С‚РёРЅРіРѕРІ";
+$MESS ['RATING_NAME'] = "РќР°Р·РІР°РЅРёРµ";
+$MESS ['RATING_CREATED'] = "РЎРѕР·РґР°РЅ";
+$MESS ['RATING_LAST_MODIFIED'] = "РњРѕРґРёС„РёС†РёСЂРѕРІР°РЅ";
+$MESS ['RATING_LAST_CALCULATED'] = "Р Р°СЃСЃС‡РёС‚Р°РЅ";
+$MESS ['RATING_ACTIVE'] = "РђРєС‚РёРІРµРЅ";
+$MESS ['RATING_STATUS'] = "РЎРѕСЃС‚РѕСЏРЅРёРµ";
+$MESS ['RATING_ENTITY_ID'] = "РћС†РµРЅРёРІР°РµРјС‹Р№ РѕР±СЉРµРєС‚";
+$MESS ['RATING_LIST_NAV'] = "Р РµР№С‚РёРЅРіРё";
+$MESS ['RATING_ACTIVE_YES'] = "Р”Р°";
+$MESS ['RATING_ACTIVE_NO'] = "РќРµС‚";
+$MESS ['RATING_STATUS_DONE'] = "СЂР°СЃСЃС‡РёС‚Р°РЅ";
+$MESS ['RATING_STATUS_WORKING'] = "РІС‹РїРѕР»РЅСЏРµС‚СЃСЏ РѕР±РЅРѕРІР»РµРЅРёРµ";
+$MESS ['RATING_STATUS_WAITING'] = "РѕР¶РёРґР°РµС‚ РѕР±РЅРѕРІР»РµРЅРёСЏ";
+$MESS ['RATING_LIST_EDIT'] = "Р�Р·РјРµРЅРёС‚СЊ РїР°СЂР°РјРµС‚СЂС‹ СЂРµР№С‚РёРЅРіР°";
+$MESS ['RATING_LIST_RECALCULATE'] = "РџРµСЂРµСЃС‡РёС‚Р°С‚СЊ СЂРµР№С‚РёРЅРі";
+$MESS ['RATING_LIST_DEL'] = "РЈРґР°Р»РёС‚СЊ СЂРµР№С‚РёРЅРі";
+$MESS ['RATING_LIST_DEL_CONF'] = "РЈРґР°Р»РёС‚СЊ СЂРµР№С‚РёРЅРі?";
+$MESS ['RATING_LIST_ADD'] = "РќРѕРІС‹Р№ СЂРµР№С‚РёРЅРі";
+$MESS ['RATING_LIST_ADD_TITLE'] = "Р”РѕР±Р°РІРёС‚СЊ РЅРѕРІС‹Р№ СЂРµР№С‚РёРЅРі";
+$MESS ['RATING_LIST_FLT_NAME'] = "РќР°Р·РІР°РЅРёРµ";
+$MESS ['RATING_LIST_FLT_ACTIVE'] = "РђРєС‚РёРІРЅРѕСЃС‚СЊ";
+$MESS ['RATING_LIST_FLT_ID'] = "ID";
+$MESS ['RATING_LIST_FLT_ENTITY_ID'] = "РћС†РµРЅРёРІР°РµРјС‹Р№ РѕР±СЉРµРєС‚";
+$MESS ['RATING_LIST_FLT_find'] = "РќР°Р№С‚Рё:";
+$MESS ['RATING_LIST_FLT_ALL'] = "(РІСЃРµ)";
+$MESS ['RATING_LIST_FLT_ACTIVE'] = "Р°РєС‚РёРІРЅС‹Рµ";
+$MESS ['RATING_LIST_FLT_INACTIVE'] = "РЅРµР°РєС‚РёРІРЅС‹Рµ";
+$MESS ['RATING_LIST_ERR_EDIT'] = "РћС€РёР±РєР° РїСЂРё СЂРµРґР°РєС‚РёСЂРѕРІР°РЅРёРё СЂРµР№С‚РёРЅРіР°.";
+$MESS ['RATING_LIST_ERR_DEL'] = "РћС€РёР±РєР° РїСЂРё СѓРґР°Р»РµРЅРёРё СЂРµР№С‚РёРЅРіР°.";
+$MESS ['RATING_LIST_ERR_CAL'] = "РћС€РёР±РєР° РїСЂРё РїРµСЂРµСЃС‡РµС‚Рµ СЂРµР№С‚РёРЅРіР°.";
+?>

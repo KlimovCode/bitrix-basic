@@ -1,0 +1,32 @@
+<?
+$MESS["BITRIXTV_GROUP_SETTINGS"] = "РћР±С‰РёРµ РЅР°СЃС‚СЂРѕР№РєРё РєРѕРјРїРѕРЅРµРЅС‚Р°";
+$MESS["BITRIXTV_GROUP_PREVIEW_TV"] = "РќР°СЃС‚СЂРѕР№РєРё РїР»РµРµСЂР°";
+$MESS["BITRIXTV_GROUP_PREVIEW_TV_PLAYER"] = "РќР°СЃС‚СЂРѕР№РєРё СЃРїРёСЃРєР°";
+$MESS["BITRIXTV_SETTING_IBLOCK_TYPE"] = "РўРёРї РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРіРѕ Р±Р»РѕРєР°";
+$MESS["BITRIXTV_SETTING_IBLOCK_ID"] = "Р�РЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Р№ Р±Р»РѕРє";
+$MESS["BITRIXTV_SETTING_ALLOW_SWF"] = "Р Р°Р·СЂРµС€РёС‚СЊ РїСЂРѕРёРіСЂС‹РІР°РЅРёРµ swf-С„Р°Р№Р»РѕРІ (РЅРµ СЂРµРєРѕРјРµРЅРґСѓРµС‚СЃСЏ)";
+$MESS["BITRIXTV_SETTING_PATH_TO_FILE"] = "РЎРІРѕР№СЃС‚РІРѕ, РІ РєРѕС‚РѕСЂРѕРј С…СЂР°РЅРёС‚СЃСЏ РїСѓС‚СЊ Рє СЂРѕР»РёРєСѓ";
+$MESS["BITRIXTV_SETTING_DURATION"] = "РЎРІРѕР№СЃС‚РІРѕ, РІ РєРѕС‚РѕСЂРѕРј С…СЂР°РЅРёС‚СЃСЏ РґР»РёС‚РµР»СЊРЅРѕСЃС‚СЊ СЂРѕР»РёРєР°";
+$MESS["BITRIXTV_SETTING_PREVIEW_TV_ELEMENT"] = "Р­Р»РµРјРµРЅС‚";
+$MESS["BITRIXTV_SETTING_PREVIEW_TV_SECTION"] = "РЎРµРєС†РёСЏ";
+$MESS["BITRIXTV_SETTING_PREVIEW_WIDTH"] = "РЁРёСЂРёРЅР° РѕР±Р»Р°СЃС‚Рё РїР»РµРµСЂР°";
+$MESS["BITRIXTV_SETTING_PREVIEW_HEIGHT"] = "Р’С‹СЃРѕС‚Р° РѕР±Р»Р°СЃС‚Рё РїР»РµРµСЂР°";
+$MESS["BITRIXTV_SETTING_DEFAULT_SMALL_IMAGE"] = "РњР°Р»РµРЅСЊРєРѕРµ РёР·РѕР±СЂР°Р¶РµРЅРёРµ РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ";
+$MESS["BITRIXTV_SETTING_DEFAULT_BIG_IMAGE"] = "Р‘РѕР»СЊС€РѕРµ РёР·РѕР±СЂР°Р¶РµРЅРёРµ РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ";
+$MESS["BITRIXTV_SETTING_LOGO"] = "Р›РѕРіРѕС‚РёРї";
+$MESS["T_IBLOCK_DESC_ASC"] = "РџРѕ РІРѕР·СЂР°СЃС‚Р°РЅРёСЋ";
+$MESS["T_IBLOCK_DESC_DESC"] = "РџРѕ СѓР±С‹РІР°РЅРёСЋ";
+$MESS["T_IBLOCK_DESC_FID"] = "ID";
+$MESS["T_IBLOCK_DESC_FNAME"] = "РќР°Р·РІР°РЅРёРµ";
+$MESS["T_IBLOCK_DESC_FACT"] = "Р”Р°С‚Р° РЅР°С‡Р°Р»Р° Р°РєС‚РёРІРЅРѕСЃС‚Рё";
+$MESS["T_IBLOCK_DESC_FSORT"] = "РЎРѕСЂС‚РёСЂРѕРІРєР°";
+$MESS["T_IBLOCK_DESC_FTSAMP"] = "Р”Р°С‚Р° РїРѕСЃР»РµРґРЅРµРіРѕ РёР·РјРµРЅРµРЅРёСЏ";
+$MESS["T_IBLOCK_DESC_IBORD1"] = "РџРѕР»Рµ РґР»СЏ РїРµСЂРІРѕР№ СЃРѕСЂС‚РёСЂРѕРІРєРё РЅРѕРІРѕСЃС‚РµР№";
+$MESS["T_IBLOCK_DESC_IBBY1"] = "РќР°РїСЂР°РІР»РµРЅРёРµ РґР»СЏ РїРµСЂРІРѕР№ СЃРѕСЂС‚РёСЂРѕРІРєРё РЅРѕРІРѕСЃС‚РµР№";
+$MESS["BITRIXTV_SETTING_STAT"] = "РЎС‚Р°С‚РёСЃС‚РёРєР° РїРѕРєР°Р·РѕРІ";
+$MESS["BITRIXTV_SETTING_STAT_EVENT"] = "РЈС‡РёС‚С‹РІР°С‚СЊ СЃРѕР±С‹С‚РёСЏ РІ РјРѕРґСѓР»Рµ СЃС‚Р°С‚РёСЃС‚РёРєРё";
+$MESS["BITRIXTV_SETTING_STAT_EVENT1"] = "event1";
+$MESS["BITRIXTV_SETTING_STAT_EVENT2"] = "event2";
+$MESS["BITRIXTV_SETTING_SHOW_COUNTER_EVENT"] = "РЈРІРµР»РёС‡РёС‚СЊ СЃС‡РµС‚С‡РёРє РїРѕРєР°Р·РѕРІ СЌР»РµРјРµРЅС‚Р°";
+$MESS["CP_BIT_CACHE_GROUPS"] = "РЈС‡РёС‚С‹РІР°С‚СЊ РїСЂР°РІР° РґРѕСЃС‚СѓРїР°";
+?>

@@ -1,0 +1,32 @@
+<?
+$MESS["CMDESKTOP_AUTH_ERR"] = "РћС€РёР±РєР° Р°РІС‚РѕСЂРёР·Р°С†РёРё";
+$MESS["CMDESKTOP_GROUP_PERSONAL"] = "Р›РёС‡РЅРѕРµ";
+$MESS["CMDESKTOP_GROUP_PERSONAL_DESCR"] = "Р“Р°РґР¶РµС‚С‹ РґР»СЏ СЂР°Р±РѕС‚С‹ СЃ РїРµСЂСЃРѕРЅР°Р»СЊРЅС‹РјРё РёРЅСЃС‚СЂСѓРјРµРЅС‚Р°РјРё";
+$MESS["CMDESKTOP_GROUP_EMPL"] = "РџРµСЂСЃРѕРЅР°Р»";
+$MESS["CMDESKTOP_GROUP_EMPL_DESCR"] = "РЎС‚СЂСѓРєС‚СѓСЂР° РєРѕРјРїР°РЅРёРё, СЃРѕС‚СЂСѓРґРЅРёРєРё";
+$MESS["CMDESKTOP_GROUP_COMMUN"] = "РљРѕРјРјСѓРЅРёРєР°С†РёРё";
+$MESS["CMDESKTOP_GROUP_COMMUN_DESCR"] = "Р‘Р»РѕРіРё, С„РѕСЂСѓРјС‹, РѕР±С‰РёРµ РґРѕРєСѓРјРµРЅС‚С‹";
+$MESS["CMDESKTOP_GROUP_COMPANY"] = "РљРѕРјРїР°РЅРёСЏ";
+$MESS["CMDESKTOP_GROUP_COMPANY_DESCR"] = "Р–РёР·РЅСЊ РєРѕРјРїР°РЅРёРё";
+$MESS["CMDESKTOP_GROUP_SERVICES"] = "Р’РЅРµС€РЅРёРµ СЃРµСЂРІРёСЃС‹";
+$MESS["CMDESKTOP_GROUP_SERVICES_DESCR"] = "РЎРµСЂРІРёСЃС‹ РїРѕР»СѓС‡РµРЅРёСЏ РёРЅС„РѕСЂРјР°С†РёРё РёР· Р�РЅС‚РµСЂРЅРµС‚";
+$MESS["CMDESKTOP_GROUP_OTHER"] = "РџСЂРѕС‡РёРµ";
+$MESS["CMDESKTOP_GROUP_OTHER_DESCR"] = "Р“Р°РґР¶РµС‚С‹ РЅРµ РІРѕС€РµРґС€РёРµ РІ РїСЂРµРґС‹РґСѓС‰РёРµ РіСЂСѓРїРїС‹";
+$MESS["CMDESKTOP_GROUP_ADMIN_CONTENT"] = "РљРѕРЅС‚РµРЅС‚";
+$MESS["CMDESKTOP_GROUP_ADMIN_CONTENT_DESCR"] = "Р“Р°РґР¶РµС‚С‹ СЂР°Р·РґРµР»Р° РљРѕРЅС‚РµРЅС‚ РїР°РЅРµР»Рё СѓРїСЂР°РІР»РµРЅРёСЏ";
+$MESS["CMDESKTOP_GROUP_ADMIN_SERVICES"] = "РЎРµСЂРІРёСЃС‹";
+$MESS["CMDESKTOP_GROUP_ADMIN_SERVICES_DESCR"] = "Р“Р°РґР¶РµС‚С‹ СЂР°Р·РґРµР»Р° РЎРµСЂРІРёСЃС‹ РїР°РЅРµР»Рё СѓРїСЂР°РІР»РµРЅРёСЏ";
+$MESS["CMDESKTOP_GROUP_ADMIN_STORE"] = "РњР°РіР°Р·РёРЅ";
+$MESS["CMDESKTOP_GROUP_ADMIN_STORE_DESCR"] = "Р“Р°РґР¶РµС‚С‹ СЂР°Р·РґРµР»Р° РњР°РіР°Р·РёРЅ РїР°РЅРµР»Рё СѓРїСЂР°РІР»РµРЅРёСЏ";
+$MESS["CMDESKTOP_GROUP_ADMIN_STATISTICS"] = "Р’РµР±-Р°РЅР°Р»РёС‚РёРєР°";
+$MESS["CMDESKTOP_GROUP_ADMIN_STATISTICS_DESCR"] = "Р“Р°РґР¶РµС‚С‹ СЂР°Р·РґРµР»Р° Р’РµР±-Р°РЅР°Р»РёС‚РёРєР° РїР°РЅРµР»Рё СѓРїСЂР°РІР»РµРЅРёСЏ";
+$MESS["CMDESKTOP_GROUP_ADMIN_SETTINGS"] = "РќР°СЃС‚СЂРѕР№РєРё";
+$MESS["CMDESKTOP_GROUP_ADMIN_SETTINGS_DESCR"] = "Р“Р°РґР¶РµС‚С‹ СЂР°Р·РґРµР»Р° РќР°СЃС‚СЂРѕР№РєРё РїР°РЅРµР»Рё СѓРїСЂР°РІР»РµРЅРёСЏ";
+$MESS["CMDESKTOP_GROUP_CRM"] = "CRM";
+$MESS["CMDESKTOP_GROUP_CRM_DESCR"] = "Р›РёРґС‹, РєРѕРЅС‚Р°РєС‚С‹, РєРѕРјРїР°РЅРёРё, СЃРґРµР»РєРё";
+$MESS["CMDESKTOP_GROUP_SONET_GROUP"] = "Р�РЅС„РѕСЂРјР°С†РёСЏ РіСЂСѓРїРїС‹";
+$MESS["CMDESKTOP_GROUP_SONET_GROUP_DESCR"] = "Р�РЅС„РѕСЂРјР°С†РёСЏ СЂР°Р±РѕС‡РµР№ РіСЂСѓРїРїС‹ СЃРѕС†РёР°Р»СЊРЅРѕР№ СЃРµС‚Рё";
+$MESS["CMDESKTOP_GROUP_SONET_USER"] = "Р�РЅС„РѕСЂРјР°С†РёСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ";
+$MESS["CMDESKTOP_GROUP_SONET_USER_DESCR"] = "Р�РЅС„РѕСЂРјР°С†РёСЏ РїСЂРѕС„РёР»СЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ СЃРѕС†РёР°Р»СЊРЅРѕР№ СЃРµС‚Рё";
+$MESS["CMDESKTOP_NAME_TEMPLATE_DEFAULT"] = "#LAST_NAME# #NAME#";
+?>

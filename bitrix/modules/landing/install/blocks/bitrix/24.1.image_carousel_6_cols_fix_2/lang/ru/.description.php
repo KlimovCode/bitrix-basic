@@ -1,0 +1,5 @@
+<?php
+$MESS['LANDING_BLOCK_9_IMAGE_CAROUSEL_6_COLS_FIX_2_NAME'] = 'РљР°СЂСѓСЃРµР»СЊ Р»РѕРіРѕС‚РёРїРѕРІ РїР°СЂС‚РЅРµСЂРѕРІ РЅР° С†РІРµС‚РЅРѕРј С„РѕРЅРµ';
+$MESS['LANDING_BLOCK_9_IMAGE_CAROUSEL_6_COLS_FIX_2_CARDS_LANDINGBLOCKCARDCAROUSELELEMENT'] = 'Р›РѕРіРѕС‚РёРї';
+$MESS['LANDING_BLOCK_9_IMAGE_CAROUSEL_6_COLS_FIX_2_NODES_LANDINGBLOCKNODEIMG'] = 'Р›РѕРіРѕС‚РёРї';
+$MESS['LANDING_BLOCK_9_IMAGE_CAROUSEL_6_COLS_FIX_2_NODES_LANDINGBLOCKCARDLOGOLINK'] = 'РЎСЃС‹Р»РєР° РЅР° Р»РѕРіРѕС‚РёРїРµ';

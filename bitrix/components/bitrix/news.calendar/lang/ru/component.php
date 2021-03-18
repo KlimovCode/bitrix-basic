@@ -1,0 +1,29 @@
+<?
+$MESS ['IBL_NEWS_CAL_M_1'] = "РЇРЅРІР°СЂСЊ";
+$MESS ['IBL_NEWS_CAL_M_2'] = "Р¤РµРІСЂР°Р»СЊ";
+$MESS ['IBL_NEWS_CAL_M_3'] = "РњР°СЂС‚";
+$MESS ['IBL_NEWS_CAL_M_4'] = "РђРїСЂРµР»СЊ";
+$MESS ['IBL_NEWS_CAL_M_5'] = "РњР°Р№";
+$MESS ['IBL_NEWS_CAL_M_6'] = "Р�СЋРЅСЊ";
+$MESS ['IBL_NEWS_CAL_M_7'] = "Р�СЋР»СЊ";
+$MESS ['IBL_NEWS_CAL_M_8'] = "РђРІРіСѓСЃС‚";
+$MESS ['IBL_NEWS_CAL_M_9'] = "РЎРµРЅС‚СЏР±СЂСЊ";
+$MESS ['IBL_NEWS_CAL_M_10'] = "РћРєС‚СЏР±СЂСЊ";
+$MESS ['IBL_NEWS_CAL_M_11'] = "РќРѕСЏР±СЂСЊ";
+$MESS ['IBL_NEWS_CAL_M_12'] = "Р”РµРєР°Р±СЂСЊ";
+$MESS ['IBL_NEWS_CAL_D_0'] = "Р’РѕСЃРєСЂРµСЃРµРЅСЊРµ";
+$MESS ['IBL_NEWS_CAL_D_1'] = "РџРѕРЅРµРґРµР»СЊРЅРёРє";
+$MESS ['IBL_NEWS_CAL_D_2'] = "Р’С‚РѕСЂРЅРёРє";
+$MESS ['IBL_NEWS_CAL_D_3'] = "РЎСЂРµРґР°";
+$MESS ['IBL_NEWS_CAL_D_4'] = "Р§РµС‚РІРµСЂРі";
+$MESS ['IBL_NEWS_CAL_D_5'] = "РџСЏС‚РЅРёС†Р°";
+$MESS ['IBL_NEWS_CAL_D_6'] = "РЎСѓР±Р±РѕС‚Р°";
+$MESS ['IBL_NEWS_CAL_S_0'] = "Р’СЃ";
+$MESS ['IBL_NEWS_CAL_S_1'] = "РџРЅ";
+$MESS ['IBL_NEWS_CAL_S_2'] = "Р’С‚";
+$MESS ['IBL_NEWS_CAL_S_3'] = "РЎСЂ";
+$MESS ['IBL_NEWS_CAL_S_4'] = "Р§С‚";
+$MESS ['IBL_NEWS_CAL_S_5'] = "РџС‚";
+$MESS ['IBL_NEWS_CAL_S_6'] = "РЎР±";
+$MESS ['IBLOCK_MODULE_NOT_INSTALLED'] = "РњРѕРґСѓР»СЊ Р�РЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹С… Р±Р»РѕРєРѕРІ РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ";
+?>

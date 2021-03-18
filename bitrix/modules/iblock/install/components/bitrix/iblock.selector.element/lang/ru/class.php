@@ -1,0 +1,16 @@
+<?
+$MESS["IBLOCK_SELECTOR_ELEMENT_ERR_IBLOCK_MODULE_NOT_INSTALLED"] = "РњРѕРґСѓР»СЊ \"Р�РЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Рµ Р±Р»РѕРєРё\" РЅРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅ";
+$MESS["IBLOCK_SELECTOR_ELEMENT_GRID_PAGENAVIGATION_TITLE"] = "Р­Р»РµРјРµРЅС‚С‹";
+$MESS["IBLOCK_SELECTOR_ELEMENT_FILTER_FIELD_SECTION_ID"] = "Р Р°Р·РґРµР»";
+$MESS["IBLOCK_SELECTOR_ELEMENT_FILTER_FIELD_INCLUDE_SUBSECTIONS"] = "Р’РєР»СЋС‡Р°СЏ РїРѕРґСЂР°Р·РґРµР»С‹";
+$MESS["IBLOCK_SELECTOR_ELEMENT_GRID_COLUMN_ACTIVE_FROM"] = "РќР°С‡Р°Р»Рѕ Р°РєС‚РёРІРЅРѕСЃС‚Рё";
+$MESS["IBLOCK_SELECTOR_ELEMENT_GRID_COLUMN_ACTIVE_TO"] = "РћРєРѕРЅС‡Р°РЅРёРµ Р°РєС‚РёРІРЅРѕСЃС‚Рё";
+$MESS["IBLOCK_SELECTOR_ELEMENT_SLIDER_FILTER_ALL_PRODUCTS"] = "Р’СЃРµ С‚РѕРІР°СЂС‹";
+$MESS["IBLOCK_SELECTOR_ELEMENT_SLIDER_FILTER_SIMPLE_PRODUCTS"] = "РџСЂРѕСЃС‚С‹Рµ С‚РѕРІР°СЂС‹";
+$MESS["IBLOCK_SELECTOR_ELEMENT_GRID_COLUMN_TYPE"] = "РўРёРї С‚РѕРІР°СЂР°";
+$MESS["IBLOCK_SELECTOR_ELEMENT_FILTER_FIELD_BUNDLE"] = "РќР°Р»РёС‡РёРµ РЅР°Р±РѕСЂР°";
+$MESS["IBLOCK_SELECTOR_ELEMENT_GRID_COLUMN_AVAILABLE"] = "Р”РѕСЃС‚СѓРїРЅРѕСЃС‚СЊ";
+$MESS["IBLOCK_SELECTOR_ELEMENT_MESS_IS_NOT_PRODUCT"] = "РЅРµ С‚РѕРІР°СЂ";
+$MESS["IBLOCK_SELECTOR_ELEMENT_MESS_BAD_PRODUCT_TYPE"] = "РЅРµРёР·РІРµСЃС‚РЅС‹Р№";
+$MESS["IBLOCK_SELECTOR_ELEMENT_MESS_TYPE_DESCRIPTION"] = "#TYPE#, РЅР°Р±РѕСЂ";
+?>

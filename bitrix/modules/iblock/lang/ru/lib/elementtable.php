@@ -1,0 +1,37 @@
+<?
+$MESS["ELEMENT_ENTITY_ID_FIELD"] = "Р�РґРµРЅС‚РёС„РёРєР°С‚РѕСЂ";
+$MESS["ELEMENT_ENTITY_TIMESTAMP_X_FIELD"] = "Р”Р°С‚Р° РёР·РјРµРЅРµРЅРёСЏ";
+$MESS["ELEMENT_ENTITY_MODIFIED_BY_FIELD"] = "РљС‚Рѕ РёР·РјРµРЅРёР»";
+$MESS["ELEMENT_ENTITY_DATE_CREATE_FIELD"] = "Р”Р°С‚Р° СЃРѕР·РґР°РЅРёСЏ";
+$MESS["ELEMENT_ENTITY_CREATED_BY_FIELD"] = "РљС‚Рѕ СЃРѕР·РґР°Р»";
+$MESS["ELEMENT_ENTITY_IBLOCK_ID_FIELD"] = "Р�РґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РёРЅС„РѕР±Р»РѕРєР°";
+$MESS["ELEMENT_ENTITY_IBLOCK_SECTION_ID_FIELD"] = "РћСЃРЅРѕРІРЅРѕР№ СЂР°Р·РґРµР»";
+$MESS["ELEMENT_ENTITY_ACTIVE_FIELD"] = "РђРєС‚РёРІРЅРѕСЃС‚СЊ";
+$MESS["ELEMENT_ENTITY_ACTIVE_FROM_FIELD"] = "Р”Р°С‚Р° РЅР°С‡Р°Р»Р° Р°РєС‚РёРІРЅРѕСЃС‚Рё";
+$MESS["ELEMENT_ENTITY_ACTIVE_TO_FIELD"] = "Р”Р°С‚Р° РѕРєРѕРЅС‡Р°РЅРёСЏ Р°РєС‚РёРІРЅРѕСЃС‚Рё";
+$MESS["ELEMENT_ENTITY_SORT_FIELD"] = "Р�РЅРґРµРєСЃ СЃРѕСЂС‚РёСЂРѕРІРєРё";
+$MESS["ELEMENT_ENTITY_NAME_FIELD"] = "РќР°РёРјРµРЅРѕРІР°РЅРёРµ";
+$MESS["ELEMENT_ENTITY_PREVIEW_PICTURE_FIELD"] = "РљР°СЂС‚РёРЅРєР° Р°РЅРѕРЅСЃР°";
+$MESS["ELEMENT_ENTITY_PREVIEW_TEXT_FIELD"] = "РћРїРёСЃР°РЅРёРµ РґР»СЏ Р°РЅРѕРЅСЃР°";
+$MESS["ELEMENT_ENTITY_PREVIEW_TEXT_TYPE_FIELD"] = "РўРёРї РѕРїРёСЃР°РЅРёСЏ РґР»СЏ Р°РЅРѕРЅСЃР°";
+$MESS["ELEMENT_ENTITY_DETAIL_PICTURE_FIELD"] = "Р”РµС‚Р°Р»СЊРЅР°СЏ РєР°СЂС‚РёРЅРєР°";
+$MESS["ELEMENT_ENTITY_DETAIL_TEXT_FIELD"] = "Р”РµС‚Р°Р»СЊРЅРѕРµ РѕРїРёСЃР°РЅРёРµ";
+$MESS["ELEMENT_ENTITY_DETAIL_TEXT_TYPE_FIELD"] = "РўРёРї РґРµС‚Р°Р»СЊРЅРѕРіРѕ РѕРїРёСЃР°РЅРёСЏ";
+$MESS["ELEMENT_ENTITY_SEARCHABLE_CONTENT_FIELD"] = "РџРѕРёСЃРєРѕРІС‹Р№ РёРЅРґРµРєСЃ";
+$MESS["ELEMENT_ENTITY_WF_STATUS_ID_FIELD"] = "РЎС‚Р°С‚СѓСЃ РІ РґРѕРєСѓРјРµРЅС‚РѕРѕР±РѕСЂРѕС‚Рµ";
+$MESS["ELEMENT_ENTITY_WF_PARENT_ELEMENT_ID_FIELD"] = "Р­Р»РµРјРµРЅС‚-СЂРѕРґРёС‚РµР»СЊ";
+$MESS["ELEMENT_ENTITY_WF_NEW_FIELD"] = "Р¤Р»Р°Рі РїСѓР±Р»РёРєР°С†РёРё С‡РµСЂРЅРѕРІРёРєР°";
+$MESS["ELEMENT_ENTITY_WF_LOCKED_BY_FIELD"] = "РљС‚Рѕ Р·Р°Р±Р»РѕРєРёСЂРѕРІР°Р»";
+$MESS["ELEMENT_ENTITY_WF_DATE_LOCK_FIELD"] = "Р”Р°С‚Р° Р±Р»РѕРєРёСЂРѕРІРєРё";
+$MESS["ELEMENT_ENTITY_WF_COMMENTS_FIELD"] = "РљРѕРјРјРµРЅС‚Р°СЂРёР№ РґРѕРєСѓРјРµРЅС‚РѕРѕР±РѕСЂРѕС‚Р°";
+$MESS["ELEMENT_ENTITY_IN_SECTIONS_FIELD"] = "Р’С…РѕРґРёС‚ РІ СЂР°Р·РґРµР»С‹ РёРЅС„РѕР±Р»РѕРєР°";
+$MESS["ELEMENT_ENTITY_XML_ID_FIELD"] = "Р’РЅРµС€РЅРёР№ РєРѕРґ";
+$MESS["ELEMENT_ENTITY_CODE_FIELD"] = "РЎРёРјРІРѕР»СЊРЅС‹Р№ РєРѕРґ";
+$MESS["ELEMENT_ENTITY_TAGS_FIELD"] = "РўРµРіРё";
+$MESS["ELEMENT_ENTITY_TMP_ID_FIELD"] = "Р’СЂРµРјРµРЅРЅС‹Р№ РєРѕРґ";
+$MESS["ELEMENT_ENTITY_SHOW_COUNTER_FIELD"] = "РљРѕР»РёС‡РµСЃС‚РІРѕ РїРѕРєР°Р·РѕРІ";
+$MESS["ELEMENT_ENTITY_SHOW_COUNTER_START_FIELD"] = "Р”Р°С‚Р° РїРµСЂРІРѕРіРѕ РїРѕРєР°Р·Р°";
+$MESS["ELEMENT_ENTITY_MESS_ADD_BLOCKED"] = "Р”Р»СЏ РґРѕР±Р°РІР»РµРЅРёСЏ СЌР»РµРјРµРЅС‚РѕРІ РёРЅС„РѕР±Р»РѕРєРѕРІ РёСЃРїРѕР»СЊР·СѓР№С‚Рµ РІС‹Р·РѕРІ CIBlockElement::Add()";
+$MESS["ELEMENT_ENTITY_MESS_UPDATE_BLOCKED"] = "Р”Р»СЏ РёР·РјРµРЅРµРЅРёСЏ СЌР»РµРјРµРЅС‚РѕРІ РёРЅС„РѕР±Р»РѕРєРѕРІ РёСЃРїРѕР»СЊР·СѓР№С‚Рµ РІС‹Р·РѕРІ CIBlockElement::Update()";
+$MESS["ELEMENT_ENTITY_MESS_DELETE_BLOCKED"] = "Р”Р»СЏ СѓРґР°Р»РµРЅРёСЏ СЌР»РµРјРµРЅС‚РѕРІ РёРЅС„РѕР±Р»РѕРєРѕРІ РёСЃРїРѕР»СЊР·СѓР№С‚Рµ РІС‹Р·РѕРІ CIBlockElement::Delete()";
+?>

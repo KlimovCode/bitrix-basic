@@ -1,0 +1,15 @@
+<?php
+$MESS['LANDING_TABLE_FIELD_XML_ID'] = 'Р’РЅРµС‰РЅРёР№ РєРѕРґ';
+$MESS['LANDING_TABLE_FIELD_APP_CODE'] = 'РљРѕРґ РїСЂРёР»РѕР¶РµРЅРёСЏ';
+$MESS['LANDING_TABLE_FIELD_ACTIVE'] = 'Р¤Р»Р°Рі Р°РєС‚РёРІРЅРѕСЃС‚Рё';
+$MESS['LANDING_TABLE_FIELD_NAME'] = 'РќР°Р·РІР°РЅРёРµ';
+$MESS['LANDING_TABLE_FIELD_DESCRIPTION'] = 'РћРїРёСЃР°РЅРёРµ';
+$MESS['LANDING_TABLE_FIELD_SECTIONS'] = 'РљР°С‚РµРіРѕСЂРёРё';
+$MESS['LANDING_TABLE_FIELD_SITE_TEMPLATE_ID'] = 'РЁР°Р±Р»РѕРЅ РіР»Р°РІРЅРѕРіРѕ РјРѕРґСѓР»СЏ';
+$MESS['LANDING_TABLE_FIELD_PREVIEW'] = 'РџСЂРµРІСЊСЋ-РёР·РѕР±СЂР°Р¶РµРЅРёРµ';
+$MESS['LANDING_TABLE_FIELD_MANIFEST'] = 'РњР°РЅРёС„РµСЃС‚';
+$MESS['LANDING_TABLE_FIELD_CONTENT'] = 'РЎРѕРґРµСЂР¶РёРјРѕРµ Р±Р»РѕРєР°';
+$MESS['LANDING_TABLE_FIELD_CREATED_BY_ID'] = 'Р�РґРµРЅС‚РёС„РёРєР°С‚РѕСЂ СЃРѕР·РґР°РІС€РµРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ';
+$MESS['LANDING_TABLE_FIELD_MODIFIED_BY_ID'] = 'Р�РґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РёР·РјРµРЅРёРІС€РµРіРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ';
+$MESS['LANDING_TABLE_FIELD_DATE_CREATE'] = 'Р”Р°С‚Р° СЃРѕР·РґР°РЅРёСЏ';
+$MESS['LANDING_TABLE_FIELD_DATE_MODIFY'] = 'Р”Р°С‚Р° РёР·РјРµРЅРµРЅРёСЏ';

@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"РљСЂРµРґРёС‚РѕРІР°РЅРёРµ", 
+		"credit.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Р›РёР·РёРЅРі", 
+		"leazing.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Р”РµРїРѕР·РёС‚С‹", 
+		"deposits.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"РџР»Р°СЃС‚РёРєРѕРІС‹Рµ РєР°СЂС‚С‹", 
+		"cards.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

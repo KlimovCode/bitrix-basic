@@ -1,0 +1,18 @@
+<?
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_FIELD_SORT"] = "РЎРѕСЂС‚РёСЂРѕРІРєР°";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_FIELD_NAME"] = "РќР°Р·РІР°РЅРёРµ";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_FIELD_PREVIEW_TEXT"] = "РўРµРєСЃС‚ Р°РЅРѕРЅСЃР°";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_FIELD_PREVIEW_PICTURE"] = "РљР°СЂС‚РёРЅРєР° Р°РЅРѕРЅСЃР°";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_FIELD_DETAIL_TEXT"] = "РџРѕРґСЂРѕР±РЅС‹Р№ С‚РµРєСЃС‚";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_FIELD_DETAIL_PICTURE"] = "Р”РµС‚Р°Р»СЊРЅР°СЏ РєР°СЂС‚РёРЅРєР°";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_PRODUCT_FIELD_AVAILABLE"] = "Р”РѕСЃС‚СѓРїРЅРѕСЃС‚СЊ С‚РѕРІР°СЂР°";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_PRODUCT_FIELD_PRICE"] = "Р¦РµРЅР°";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_PRODUCT_FIELD_WEIGHT"] = "Р’РµСЃ";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_PRODUCT_FIELD_SIZES"] = "Р Р°Р·РјРµСЂС‹";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_PROPERTY_TITLE"] = "РЎРІРѕР№СЃС‚РІРѕ #NAME#";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_PROPERTY_LIST_TITLE"] = "РЎРІРѕР№СЃС‚РІРѕ #NAME# (С‚РѕР»СЊРєРѕ СЃРїРёСЃРѕРє СЌР»РµРјРµРЅС‚РѕРІ)";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_PROPERTY_DETAIL_TITLE"] = "РЎРІРѕР№СЃС‚РІРѕ #NAME# (С‚РѕР»СЊРєРѕ РґРµС‚Р°Р»СЊРЅР°СЏ СЃС‚СЂР°РЅРёС†Р°)";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_ACTIONS"] = "Р”РµР№СЃС‚РІРёСЏ";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_ACTION_TITLE_BUY"] = "РљСѓРїРёС‚СЊ";
+$MESS["IBLOCK_LANDING_SOURCE_ELEMENT_ACTION_TITLE_ADD_TO_CART"] = "Р”РѕР±Р°РІРёС‚СЊ РІ РєРѕСЂР·РёРЅСѓ";
+?>

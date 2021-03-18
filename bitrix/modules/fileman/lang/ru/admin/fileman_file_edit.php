@@ -1,0 +1,36 @@
+<?
+$MESS["FILEMAN_FILEEDIT_FILE_EXISTS"] = "Р¤Р°Р№Р» СЃ С‚Р°РєРёРј РёРјРµРЅРµРј СѓР¶Рµ СЃСѓС‰РµСЃС‚РІСѓРµС‚!";
+$MESS["FILEMAN_FILEEDIT_FOLDER_EXISTS"] = "РЎ С‚Р°РєРёРј РёРјРµРЅРµРј РѕРїСЂРµРґРµР»РµРЅР° РїР°РїРєР°!";
+$MESS["FILEMAN_FILEEDIT_FILENAME_EMPTY"] = "Р�РјСЏ С„Р°Р№Р»Р° РЅРµ Р·Р°РґР°РЅРѕ";
+$MESS["FILEMAN_FILEEDIT_AS_MENU"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ РєР°Рє РјРµРЅСЋ";
+$MESS["FILEMAN_FILEEDIT_AS_HTML"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ РєР°Рє HTML";
+$MESS["FILEMAN_FILEEDIT_AS_TXT"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ РєР°Рє С‚РµРєСЃС‚";
+$MESS["FILEMAN_FILEEDIT_AS_PHP"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ РєР°Рє PHP";
+$MESS["FILEMAN_FILEEDIT_RENAME"] = "РџРµСЂРµРёРјРµРЅРѕРІР°С‚СЊ";
+$MESS["FILEMAN_FILEEDIT_DOWNLOAD"] = "РЎРєР°С‡Р°С‚СЊ С„Р°Р№Р»";
+$MESS["FILEMAN_FILEEDIT_NAME"] = "Р�РјСЏ С„Р°Р№Р»Р°:";
+$MESS["FILEMAN_FILEEDIT_SAVE"] = "РЎРѕС…СЂР°РЅРёС‚СЊ";
+$MESS["FILEMAN_FILEEDIT_APPLY"] = "РџСЂРёРјРµРЅРёС‚СЊ";
+$MESS["FILEMAN_FILEEDIT_RESET"] = "РћС‚РјРµРЅРёС‚СЊ";
+$MESS["FILEMAN_FILEEDIT_TEMPLATE"] = "РЁР°Р±Р»РѕРЅ:";
+$MESS["FILEMAN_FILEEDIT_CHANGE"] = "РќРµРґРѕСЃС‚Р°С‚РѕС‡РЅРѕ РїСЂР°РІ РґР»СЏ РІСЃС‚Р°РІРєРё PHP РєРѕРґР°.";
+$MESS["FILEMAN_FILEEDIT_CHANGE_ACCESS"] = "РќРµРґРѕСЃС‚Р°С‚РѕС‡РЅРѕ РїСЂР°РІ РґР»СЏ РёР·РјРµРЅРµРЅРёСЏ СЃС‚СЂР°РЅРёС† СЃ PHP РєРѕРґРѕРј";
+$MESS["FILEMAN_FILEEDIT_TITLE"] = "Р—Р°РіРѕР»РѕРІРѕРє СЃС‚СЂР°РЅРёС†С‹:";
+$MESS["FILEMAN_FILEEDIT_BAD_FNAME"] = "РќР°Р·РІР°РЅРёРµ С„Р°Р№Р»Р° РЅРµ РґРѕР»Р¶РЅРѕ РЅР°С‡РёРЅР°С‚СЊСЃСЏ СЃ С‚РѕС‡РєРё!";
+$MESS["FILEMAN_EDIT_FILEPROPS"] = "РЎРІРѕР№СЃС‚РІР° СЃС‚СЂР°РЅРёС†С‹:";
+$MESS["FILEMAN_EDIT_PROPSCODE"] = "РЎРІРѕР№СЃС‚РІРѕ";
+$MESS["FILEMAN_EDIT_PROPSVAL"] = "Р—РЅР°С‡РµРЅРёРµ";
+$MESS["FILEMAN_EDIT_PROPSDEL"] = "РЈРґР°Р»РёС‚СЊ";
+$MESS["FILEMAN_EDIT_PROPSMORE"] = "Р•С‰Рµ...";
+$MESS["FILEMAN_FILE_EDIT_FOLDER_PROP"] = "РўРµРєСѓС‰РµРµ Р·РЅР°С‡РµРЅРёРµ РёР· СЃРІРѕР№СЃС‚РІ СЂР°Р·РґРµР»Р°:";
+$MESS["FILEMAN_FILE_VIEW"] = "РџСЂРѕСЃРјРѕС‚СЂ С„Р°Р№Р»Р°";
+$MESS["FILEMAN_SESSION_EXPIRED"] = "Р’Р°С€Р° СЃРµСЃСЃРёСЏ РёСЃС‚РµРєР»Р°. РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РїРµСЂРµСЃРѕС…СЂР°РЅРёС‚Рµ РґРѕРєСѓРјРµРЅС‚ РµС‰Рµ СЂР°Р·.";
+$MESS["FILEMAN_TAGS"] = "РўРµРіРё (РІРІРµРґРёС‚Рµ СЃР»РѕРІР° РёР»Рё СЃР»РѕРІРѕСЃРѕС‡РµС‚Р°РЅРёСЏ, СЂР°Р·РґРµР»СЏСЏ РёС… Р·Р°РїСЏС‚С‹РјРё)";
+$MESS["FILEMAN_FILE_DELETE"] = "РЈРґР°Р»РёС‚СЊ С„Р°Р№Р»";
+$MESS["FILEMAN_FILE_DELETE_CONFIRM"] = "Р’С‹ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ С…РѕС‚РёС‚Рµ СѓРґР°Р»РёС‚СЊ С„Р°Р№Р»?";
+$MESS["FILEMAN_FILE_EDIT"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ";
+$MESS["FILEMAN_FILE_TRANS_LINKED"] = "Р“РµРЅРµСЂР°С†РёСЏ РёРјРµРЅРё С„Р°Р№Р»Р° РёР· Р·Р°РіРѕР»РѕРІРєР°: Р’РєР»СЋС‡РµРЅРѕ";
+$MESS["FILEMAN_FILE_TRANS_UNLINKED"] = "Р“РµРЅРµСЂР°С†РёСЏ РёРјРµРЅРё С„Р°Р№Р»Р° РёР· Р·Р°РіРѕР»РѕРІРєР°: Р’С‹РєР»СЋС‡РµРЅРѕ";
+$MESS["FILEMAN_APPLY_PROCESS"] = "РџСЂРёРјРµРЅРµРЅРёРµ РёР·РјРµРЅРµРЅРёР№";
+$MESS["FILEMAN_FILEEDIT_PAGE_TITLE"] = "Р РµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ С„Р°Р№Р»Р°";
+?>

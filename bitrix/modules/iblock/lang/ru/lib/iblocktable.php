@@ -1,0 +1,32 @@
+<?
+$MESS["IBLOCK_ENTITY_ID_FIELD"] = "Р�РґРµРЅС‚РёС„РёРєР°С‚РѕСЂ";
+$MESS["IBLOCK_ENTITY_TIMESTAMP_X_FIELD"] = "Р”Р°С‚Р° РёР·РјРµРЅРµРЅРёСЏ";
+$MESS["IBLOCK_ENTITY_IBLOCK_TYPE_ID_FIELD"] = "РўРёРї РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРіРѕ Р±Р»РѕРєР°";
+$MESS["IBLOCK_ENTITY_CODE_FIELD"] = "РЎРёРјРІРѕР»СЊРЅС‹Р№ РєРѕРґ";
+$MESS["IBLOCK_ENTITY_NAME_FIELD"] = "РќР°Р·РІР°РЅРёРµ";
+$MESS["IBLOCK_ENTITY_ACTIVE_FIELD"] = "РђРєС‚РёРІРЅРѕСЃС‚СЊ";
+$MESS["IBLOCK_ENTITY_SORT_FIELD"] = "РЎРѕСЂС‚РёСЂРѕРІРєР°";
+$MESS["IBLOCK_ENTITY_LIST_PAGE_URL_FIELD"] = "URL СЃС‚СЂР°РЅРёС†С‹ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРіРѕ Р±Р»РѕРєР°";
+$MESS["IBLOCK_ENTITY_DETAIL_PAGE_URL_FIELD"] = "URL СЃС‚СЂР°РЅРёС†С‹ РґРµС‚Р°Р»СЊРЅРѕРіРѕ РїСЂРѕСЃРјРѕС‚СЂР°";
+$MESS["IBLOCK_ENTITY_SECTION_PAGE_URL_FIELD"] = "URL СЃС‚СЂР°РЅРёС†С‹ СЂР°Р·РґРµР»Р°";
+$MESS["IBLOCK_ENTITY_CANONICAL_PAGE_URL_FIELD"] = "РљР°РЅРѕРЅРёС‡РµСЃРєРёР№ URL СЌР»РµРјРµРЅС‚Р°";
+$MESS["IBLOCK_ENTITY_PICTURE_FIELD"] = "Р�Р·РѕР±СЂР°Р¶РµРЅРёРµ";
+$MESS["IBLOCK_ENTITY_DESCRIPTION_FIELD"] = "РћРїРёСЃР°РЅРёРµ";
+$MESS["IBLOCK_ENTITY_DESCRIPTION_TYPE_FIELD"] = "РўРёРї РѕРїРёСЃР°РЅРёСЏ";
+$MESS["IBLOCK_ENTITY_XML_ID_FIELD"] = "Р’РЅРµС€РЅРёР№ РєРѕРґ";
+$MESS["IBLOCK_ENTITY_TMP_ID_FIELD"] = "Р’СЂРµРјРµРЅРЅС‹Р№ РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ";
+$MESS["IBLOCK_ENTITY_INDEX_ELEMENT_FIELD"] = "Р�РЅРґРµРєСЃРёСЂРѕРІР°С‚СЊ СЌР»РµРјРµРЅС‚С‹ РґР»СЏ РјРѕРґСѓР»СЏ РїРѕРёСЃРєР°";
+$MESS["IBLOCK_ENTITY_INDEX_SECTION_FIELD"] = "Р�РЅРґРµРєСЃРёСЂРѕРІР°С‚СЊ СЂР°Р·РґРµР»С‹ РґР»СЏ РјРѕРґСѓР»СЏ РїРѕРёСЃРєР°";
+$MESS["IBLOCK_ENTITY_WORKFLOW_FIELD"] = "РЈС‡Р°СЃС‚РІСѓРµС‚ РІ РґРѕРєСѓРјРµРЅС‚РѕРѕР±РѕСЂРѕС‚Рµ";
+$MESS["IBLOCK_ENTITY_BIZPROC_FIELD"] = "РЈС‡Р°СЃС‚РІСѓРµС‚ РІ Р±РёР·РЅРµСЃ РїСЂРѕС†РµСЃСЃР°С…";
+$MESS["IBLOCK_ENTITY_SECTION_CHOOSER_FIELD"] = "Р�РЅС‚РµСЂС„РµР№СЃ РїСЂРёРІСЏР·РєРё СЌР»РµРјРµРЅС‚Р° Рє СЂР°Р·РґРµР»Р°Рј";
+$MESS["IBLOCK_ENTITY_LIST_MODE_FIELD"] = "Р РµР¶РёРј РїСЂРѕСЃРјРѕС‚СЂР° СЂР°Р·РґРµР»РѕРІ Рё СЌР»РµРјРµРЅС‚РѕРІ";
+$MESS["IBLOCK_ENTITY_RIGHTS_MODE_FIELD"] = "Р РµР¶РёРј РїСЂР°РІ РґРѕСЃС‚СѓРїР°";
+$MESS["IBLOCK_ENTITY_SECTION_PROPERTY_FIELD"] = "Р�СЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РїСЂРёРІСЏР·РєР° СЃРІРѕР№СЃС‚РІ Рє СЂР°Р·РґРµР»Р°Рј";
+$MESS["IBLOCK_ENTITY_PROPERTY_INDEX_FIELD"] = "Р�СЃРїРѕР»СЊР·РѕРІР°РЅРёРµ С„Р°СЃРµС‚РЅРѕРіРѕ РёРЅРґРµРєСЃР°";
+$MESS["IBLOCK_ENTITY_VERSION_FIELD"] = "РќР°СЃС‚СЂРѕР№РєР° С…СЂР°РЅРµРЅРёСЏ СЃРІРѕР№СЃС‚РІ";
+$MESS["IBLOCK_ENTITY_LAST_CONV_ELEMENT_FIELD"] = "РџРѕСЃР»РµРґРЅРёР№ СЃРєРѕРЅРІРµСЂС‚РёСЂРѕРІР°РЅРЅС‹Р№ СЌР»РµРјРµРЅС‚";
+$MESS["IBLOCK_ENTITY_SOCNET_GROUP_ID_FIELD"] = "Р“СЂСѓРїРїР° СЃРѕС†РёР°Р»СЊРЅРѕР№ СЃРµС‚Рё";
+$MESS["IBLOCK_ENTITY_EDIT_FILE_BEFORE_FIELD"] = "Р¤Р°Р№Р» РґР»СЏ СЂРµРґР°РєС‚РёСЂРѕРІР°РЅРёСЏ СЌР»РµРјРµРЅС‚Р°, РїРѕР·РІРѕР»СЏСЋС‰РёР№ РјРѕРґРёС„РёС†РёСЂРѕРІР°С‚СЊ РїРѕР»СЏ РїРµСЂРµРґ СЃРѕС…СЂР°РЅРµРЅРёРµРј";
+$MESS["IBLOCK_ENTITY_EDIT_FILE_AFTER_FIELD"] = "Р¤Р°Р№Р» СЃ С„РѕСЂРјРѕР№ СЂРµРґР°РєС‚РёСЂРѕРІР°РЅРёСЏ СЌР»РµРјРµРЅС‚Р°";
+?>

@@ -1,0 +1,5 @@
+<?php
+$MESS['LANDING_BLOCK_47.1.TITLE_WITH_ICON_NAME'] = 'Р—Р°РіРѕР»РѕРІРѕРє Рё С‚РµРєСЃС‚ СЃ РёРєРѕРЅРєР°РјРё СЂР°Р·РґРµР»РёС‚РµР»СЏРјРё';
+$MESS['LANDING_BLOCK_47.1.TITLE_WITH_ICON_NODES_LANDINGBLOCKNODETITLE'] = 'Р—Р°РіРѕР»РѕРІРѕРє';
+$MESS['LANDING_BLOCK_47.1.TITLE_WITH_ICON_NODES_LANDINGBLOCKNODEICON'] = 'Р�РєРѕРЅРєР°';
+$MESS['LANDING_BLOCK_47.1.TITLE_WITH_ICON_NODES_LANDINGBLOCKNODETEXT'] = 'РўРµРєСЃС‚';

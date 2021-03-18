@@ -1,0 +1,31 @@
+<?
+$MESS["PERFMON_MNU_SECT"] = "РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ";
+$MESS["PERFMON_MNU_SECT_TITLE"] = "РњРѕРЅРёС‚РѕСЂ РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚Рё";
+$MESS["PERFMON_MNU_HIT_LIST"] = "РҐРёС‚С‹";
+$MESS["PERFMON_MNU_HIT_LIST_ALT"] = "РћС‚С‡РµС‚ РїРѕ С…РёС‚Р°Рј.";
+$MESS["PERFMON_MNU_COMP_LIST"] = "РљРѕРјРїРѕРЅРµРЅС‚С‹";
+$MESS["PERFMON_MNU_COMP_LIST_ALT"] = "РћС‚С‡РµС‚ РїРѕ РєРѕРјРїРѕРЅРµРЅС‚Р°Рј";
+$MESS["PERFMON_MNU_CACHE_LIST"] = "РљРµС€РёСЂРѕРІР°РЅРёРµ";
+$MESS["PERFMON_MNU_CACHE_LIST_ALT"] = "РћС‚С‡РµС‚ РїРѕ РѕРїРµСЂР°С†РёСЏРј СЃ РєРµС€РµРј";
+$MESS["PERFMON_MNU_SQL_LIST2"] = "Р—Р°РїСЂРѕСЃС‹ SQL";
+$MESS["PERFMON_MNU_SQL_LIST_ALT"] = "РћС‚С‡РµС‚ РїРѕ Р·Р°РїСЂРѕСЃР°Рј SQL.";
+$MESS["PERFMON_MNU_TABLES"] = "РўР°Р±Р»РёС†С‹";
+$MESS["PERFMON_MNU_TABLES_ALT"] = "РџСЂРѕСЃРјРѕС‚СЂ СЃРѕРґРµСЂР¶РёРјРѕРіРѕ С‚Р°Р±Р»РёС†.";
+$MESS["PERFMON_MNU_ERROR_LIST"] = "РћС€РёР±РєРё PHP";
+$MESS["PERFMON_MNU_ERROR_LIST_ALT"] = "Р–СѓСЂРЅР°Р» СЂРµРіРёСЃС‚СЂР°С†РёРё РѕС€РёР±РѕРє PHP.";
+$MESS["PERFMON_MNU_DB_SERVER"] = "РЎРµСЂРІРµСЂ Р‘Р”";
+$MESS["PERFMON_MNU_DB_SERVER_ALT"] = "РЎРІРѕРґРЅР°СЏ СЃС‚Р°С‚РёСЃС‚РёРєР° РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚Рё СЃРµСЂРІРµСЂР° Р±Р°Р·С‹ РґР°РЅРЅС‹С….";
+$MESS["PERFMON_MNU_INDEXES"] = "Р�РЅРґРµРєСЃС‹";
+$MESS["PERFMON_MNU_INDEX_SUGGEST"] = "РђРЅР°Р»РёР· РёРЅРґРµРєСЃРѕРІ";
+$MESS["PERFMON_MNU_INDEX_SUGGEST_ALT"] = "Р РµРєРѕРјРµРЅРґР°С†РёРё РїРѕ СЃРѕР·РґР°РЅРёСЋ РёРЅРґРµРєСЃРѕРІ РґР»СЏ СЃРѕР±СЂР°РЅРЅС‹С… Р·Р°РїСЂРѕСЃРѕРІ SQL.";
+$MESS["PERFMON_MNU_INDEX_COMPLETE"] = "РЎРїРёСЃРѕРє РёРЅРґРµРєСЃРѕРІ";
+$MESS["PERFMON_MNU_INDEX_COMPLETE_ALT"] = "РЎРїРёСЃРѕРє СЃРѕР·РґР°РЅРЅС‹С… РёРЅРґРµРєСЃРѕРІ";
+$MESS["PERFMON_MNU_PHP"] = "PHP";
+$MESS["PERFMON_MNU_PHP_ALT"] = "РќР°СЃС‚СЂРѕР№РєРё PHP";
+$MESS["PERFMON_MNU_PANEL"] = "РџР°РЅРµР»СЊ РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚Рё";
+$MESS["PERFMON_MNU_PANEL_ALT"] = "РџСЂРѕСЃРјРѕС‚СЂ РѕСЃРЅРѕРІРЅС‹С… С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРє РІР»РёСЏСЋС‰РёС… РЅР° РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ";
+$MESS["PERFMON_MNU_PAGES"] = "РЎС‚СЂР°РЅРёС†С‹";
+$MESS["PERFMON_MNU_PAGES_ALT"] = "РћС‚С‡РµС‚ РїРѕ СЃС‚СЂР°РЅРёС†Р°Рј СЃ РёС‚РѕРіРѕРІС‹РјРё РїР°СЂР°РјРµС‚СЂР°РјРё.";
+$MESS["PERFMON_MNU_HISTORY"] = "Р�СЃС‚РѕСЂРёСЏ";
+$MESS["PERFMON_MNU_HISTORY_ALT"] = "Р�СЃС‚РѕСЂРёСЏ Р·Р°РјРµСЂРѕРІ РІС‹РїРѕР»РЅРµРЅРЅС‹С… РІ РїР°РЅРµР»Рё РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚Рё.";
+?>

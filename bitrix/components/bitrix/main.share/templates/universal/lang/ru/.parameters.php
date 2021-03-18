@@ -1,0 +1,7 @@
+<?
+$MESS["BOOKMARK_SYSTEM"] = "Р�СЃРїРѕР»СЊР·СѓРµРјС‹Рµ СЃРѕС†. Р·Р°РєР»Р°РґРєРё Рё СЃРµС‚Рё";
+$MESS["BOOKMARK_URL"] = "URL СЃС‚СЂР°РЅРёС†С‹ РѕС‚РЅРѕСЃРёС‚РµР»СЊРЅРѕ РєРѕСЂРЅСЏ СЃР°Р№С‚Р°";
+$MESS["BOOKMARK_TITLE"] = "Р—Р°РіРѕР»РѕРІРѕРє СЃС‚СЂР°РЅРёС†С‹";
+$MESS["BOOKMARK_SHORTEN_URL_LOGIN"] = "Р›РѕРіРёРЅ РґР»СЏ bit.ly";
+$MESS["BOOKMARK_SHORTEN_URL_KEY"] = "РљР»СЋС‡ API РґР»СЏ bit.ly";
+?>

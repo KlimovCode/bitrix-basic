@@ -1,0 +1,29 @@
+<?
+$MESS ['MAIN_AGENT_EDIT_PAGE_TITLE'] = "РђРіРµРЅС‚ ##ID#";
+$MESS ['MAIN_AGENT_NEW_PAGE_TITLE'] = "РќРѕРІС‹Р№ Р°РіРµРЅС‚";
+$MESS ['MAIN_AGENT_TAB'] = "РђРіРµРЅС‚";
+$MESS ['MAIN_AGENT_TAB_TITLE'] = "РџР°СЂР°РјРµС‚СЂС‹";
+$MESS ['MAIN_AGENT_LAST_EXEC'] = "Р”Р°С‚Р° РїРѕСЃР»РµРґРЅРµРіРѕ Р·Р°РїСѓСЃРєР°:";
+$MESS ['MAIN_AGENT_NEXT_EXEC'] = "Р”Р°С‚Р° СЃР»РµРґСѓСЋС‰РµРіРѕ Р·Р°РїСѓСЃРєР°:";
+$MESS ['MAIN_AGENT_ACTIVE'] = "РђРєС‚РёРІРµРЅ:";
+$MESS ['MAIN_AGENT_NAME'] = "Р¤СѓРЅРєС†РёСЏ Р°РіРµРЅС‚Р°:";
+$MESS ['MAIN_AGENT_MODULE_ID'] = "РњРѕРґСѓР»СЊ:";
+$MESS ['MAIN_AGENT_USER_ID'] = "ID РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ:";
+$MESS ['MAIN_AGENT_SORT'] = "РЎРѕСЂС‚РёСЂРѕРІРєР°:";
+$MESS ['MAIN_AGENT_INTERVAL'] = "Р�РЅС‚РµСЂРІР°Р» (СЃРµРє.):";
+$MESS ['MAIN_AGENT_SAVE_BUTTON'] = "РЎРѕС…СЂР°РЅРёС‚СЊ";
+$MESS ['MAIN_AGENT_START_EXEC'] = "Р”Р°С‚Р° Рё РІСЂРµРјСЏ СЃР»РµРґСѓСЋС‰РµРіРѕ Р·Р°РїСѓСЃРєР°";
+$MESS ['MAIN_AGENT_EROR_NAME'] = "РќРµРІРµСЂРЅРѕ СѓРєР°Р·Р°РЅРѕ РёРјСЏ Р°РіРµРЅС‚Р°!";
+$MESS ['MAIN_AGENT_ERROR_SAVING'] = "РћС€РёР±РєР°!";
+$MESS ['MAIN_AGENT_RECORD_LIST'] = "РЎРїРёСЃРѕРє Р°РіРµРЅС‚РѕРІ";
+$MESS ['MAIN_AGENT_RECORD_LIST_TITLE'] = "РџРµСЂРµР№С‚Рё РІ СЃРїРёСЃРѕРє Р°РіРµРЅС‚РѕРІ";
+$MESS ['MAIN_AGENT_NEW_RECORD'] = "Р”РѕР±Р°РІРёС‚СЊ";
+$MESS ['MAIN_AGENT_NEW_RECORD_TITLE'] = "Р”РѕР±Р°РІРёС‚СЊ РЅРѕРІРѕРіРѕ Р°РіРµРЅС‚Р°";
+$MESS ['MAIN_AGENT_DEL_RECORD'] = "РЈРґР°Р»РёС‚СЊ";
+$MESS ['MAIN_AGENT_DEL_RECORD_TITLE'] = "РЈРґР°Р»РёС‚СЊ Р°РіРµРЅС‚Р°";
+$MESS ['MAIN_AGENT_DELETE_RECORD_CONF'] = "Р’С‹ СѓРІРµСЂРµРЅРЅС‹ С‡С‚Рѕ С…РѕС‚РёС‚Рµ СѓРґР°Р»РёС‚СЊ РґР°РЅРЅРѕРіРѕ Р°РіРµРЅС‚Р°?";
+$MESS ['MAIN_AGENT_DEL_EXEC'] = "РђРіРµРЅС‚ Р±С‹Р» СѓРґР°Р»РµРЅ РїРѕСЃР»Рµ СѓСЃРїРµС€РЅРѕРіРѕ РІС‹РїРѕР»РЅРµРЅРёСЏ Р»РёР±Рѕ РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РѕС€РёР±РєРё!";
+$MESS["MAIN_AGENT_PERIODICAL1"] = "РџРµСЂРёРѕРґРёС‡РЅРѕСЃС‚СЊ РІС‹РїРѕР»РЅРµРЅРёСЏ:";
+$MESS["MAIN_AGENT_PERIODICAL_INTERVAL"] = "С‡РµСЂРµР· Р·Р°РґР°РЅРЅС‹Р№ РёРЅС‚РµСЂРІР°Р»";
+$MESS["MAIN_AGENT_PERIODICAL_TIME"] = "С‚РѕС‡РЅРѕ РІ СѓРєР°Р·Р°РЅРЅРѕРµ РІСЂРµРјСЏ";
+?>

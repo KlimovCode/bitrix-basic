@@ -1,0 +1,26 @@
+<?
+$MESS["MAIN_UI_FILTER__FILTER"] = "Р¤РёР»СЊС‚СЂС‹";
+$MESS["MAIN_UI_FILTER__ADD_FILTER"] = "РЎРѕС…СЂР°РЅРёС‚СЊ С„РёР»СЊС‚СЂ";
+$MESS["MAIN_UI_FILTER__BUTTON_SAVE"] = "РЎРѕС…СЂР°РЅРёС‚СЊ";
+$MESS["MAIN_UI_FILTER__BUTTON_CANCEL"] = "РћС‚РјРµРЅРёС‚СЊ";
+$MESS["MAIN_UI_FILTER__RESET_LINK"] = "Р’РµСЂРЅСѓС‚СЊ РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ";
+$MESS["MAIN_UI_FILTER__ADD_FIELD"] = "Р”РѕР±Р°РІРёС‚СЊ РїРѕР»Рµ";
+$MESS["MAIN_UI_FILTER__RESTORE_FIELDS"] = "Р’РµСЂРЅСѓС‚СЊ РїРѕР»СЏ РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ";
+$MESS["MAIN_UI_FILTER__FILTER_NAME_PLACEHOLDER"] = "РќР°Р·РІР°РЅРёРµ С„РёР»СЊС‚СЂР°";
+$MESS["MAIN_UI_FILTER__FIND"] = "РќР°Р№С‚Рё";
+$MESS["MAIN_UI_FILTER__RESET"] = "РЎР±СЂРѕСЃРёС‚СЊ";
+$MESS["MAIN_UI_FILTER__ON"] = "РїРѕ";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER"] = "Р¤РёР»СЊС‚СЂ";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_DEFAULT"] = "Р¤РёР»СЊС‚СЂ + РїРѕРёСЃРє";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_WITH_FILTER"] = "РїРѕРёСЃРє";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_MESSAGE"] = "Р­С‚Рѕ РґРµР№СЃС‚РІРёРµ РІРѕСЃСЃС‚Р°РЅРѕРІРёС‚ РїСЂРµРґСѓСЃС‚Р°РЅРѕРІР»РµРЅРЅС‹Рµ С„РёР»СЊС‚СЂС‹, РЅРѕ РЅРµ Р·Р°С‚СЂРѕРЅРµС‚ С„РёР»СЊС‚СЂС‹, СЃРѕР·РґР°РЅРЅС‹Рµ РІР°РјРё.";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_APPLY"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ";
+$MESS["MAIN_UI_FILTER__CONFIRM_RESET_CANCEL"] = "РћС‚РјРµРЅРёС‚СЊ";
+$MESS["MAIN_UI_FILTER__RESTORE_PRESET"] = "Р’РѕСЃСЃС‚Р°РЅРѕРІРёС‚СЊ С„РёР»СЊС‚СЂ";
+$MESS["MAIN_UI_FILTER__IS_SET_AS_DEFAULT_PRESET"] = "РќР°Р·РЅР°С‡РµРЅ С„РёР»СЊС‚СЂРѕРј РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ";
+$MESS["MAIN_UI_FILTER__SET_AS_DEFAULT_PRESET"] = "РќР°Р·РЅР°С‡РёС‚СЊ С„РёР»СЊС‚СЂРѕРј РїРѕ СѓРјРѕР»С‡Р°РЅРёСЋ";
+$MESS["MAIN_UI_FILTER__EDIT_PRESET_TITLE"] = "Р�Р·РјРµРЅРёС‚СЊ РЅР°Р·РІР°РЅРёРµ С„РёР»СЊС‚СЂР°";
+$MESS["MAIN_UI_FILTER__REMOVE_PRESET"] = "РЈРґР°Р»РёС‚СЊ С„РёР»СЊС‚СЂ";
+$MESS["MAIN_UI_FILTER__DRAG_TITLE"] = "РџРѕС‚СЏРЅРёС‚Рµ, С‡С‚РѕР±С‹ РѕС‚СЃРѕСЂС‚РёСЂРѕРІР°С‚СЊ СЃРїРёСЃРѕРє СЃРѕС…СЂР°РЅРµРЅРЅС‹С… С„РёР»СЊС‚СЂРѕРІ";
+$MESS["MAIN_UI_FILTER__FILTER_SETTINGS_TITLE"] = "РќР°СЃС‚СЂРѕРёС‚СЊ С„РёР»СЊС‚СЂ";
+$MESS["MAIN_UI_FILTER__CONFIRM_APPLY_FOR_ALL_CHECKBOX"] = "Р”Р»СЏ РІСЃРµС…";

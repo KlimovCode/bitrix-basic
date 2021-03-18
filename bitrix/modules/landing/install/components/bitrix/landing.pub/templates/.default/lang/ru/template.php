@@ -1,0 +1,29 @@
+<?
+$MESS["LANDING_TPL_TITLE"] = "РЎР°Р№С‚";
+$MESS["LANDING_TPL_COPY_NAME_SMN_0"] = "Р‘С‹СЃС‚СЂРѕ СЃ";
+$MESS["LANDING_TPL_COPY_NAME_SMN_1"] = "1РЎ-Р‘РёС‚СЂРёРєСЃ";
+$MESS["LANDING_TPL_COPY_NAME_0"] = "Р—Р°СЂСЏР¶РµРЅРѕ";
+$MESS["LANDING_TPL_COPY_NAME"] = "Р‘РёС‚СЂРёРєСЃ24";
+$MESS["LANDING_TPL_COPY_REVIEW"] = "Р‘РµСЃРїР»Р°С‚РЅС‹Рµ РЎР°Р№С‚С‹ Рё CRM.";
+$MESS["LANDING_TPL_COPY_LINK"] = "РЎРѕР·РґР°С‚СЊ СЃР°Р№С‚";
+$MESS["LANDING_TPL_COPY_FULL"] = "Р—Р°СЂСЏР¶РµРЅРѕ #LOGO# &mdash; Р‘РµСЃРїР»Р°С‚РЅС‹Рµ РЎР°Р№С‚С‹ Рё CRM. <linkcreate>РЎРѕР·РґР°С‚СЊ СЃР°Р№С‚</linkcreate>";
+$MESS["LANDING_TPL_COPY_FULL2"] = "Р—Р°СЂСЏР¶РµРЅРѕ <linklogo>#LOGO#</linklogo> &mdash; <linksite>Р‘РµСЃРїР»Р°С‚РЅС‹Рµ РЎР°Р№С‚С‹</linksite> Рё <linkcrm>CRM</linkcrm>. <linkcreate>РЎРѕР·РґР°С‚СЊ СЃР°Р№С‚</linkcreate>";
+$MESS["LANDING_TPL_EDIT_PAGE"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ СЃС‚СЂР°РЅРёС†Сѓ";
+$MESS["LANDING_TPL_EDIT_PAGE_KNOWLEDGE"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ СЃС‚Р°С‚СЊСЋ";
+$MESS["LANDING_TPL_EDIT_PAGE_GROUP"] = "Р РµРґР°РєС‚РёСЂРѕРІР°С‚СЊ СЃС‚Р°С‚СЊСЋ";
+$MESS["LANDING_TPL_SITES"] = "РњРѕРё СЃР°Р№С‚С‹";
+$MESS["LANDING_TPL_SITES_STORE"] = "РњРѕРё РјР°РіР°Р·РёРЅС‹";
+$MESS["LANDING_TPL_SITES_KNOWLEDGE"] = "Р‘Р°Р·С‹ Р·РЅР°РЅРёР№";
+$MESS["LANDING_TPL_SITES_GROUP"] = "Р‘Р°Р·С‹ Р·РЅР°РЅРёР№";
+$MESS["LANDING_TPL_SETTINGS_BUTTON_TITLE"] = "РќР°СЃС‚СЂРѕР№РєРё";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE"] = "РњРѕР¶РµС‚ Р±С‹С‚СЊ, РѕС€РёР±РєР° РІ Р°РґСЂРµСЃРµ? РџСЂРѕРІРµСЂСЊС‚Рµ РµС‰Рµ СЂР°Р·.";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE_KNOWLEDGE"] = "РџРѕРїСЂРѕР±СѓР№С‚Рµ РЅР°Р№С‚Рё РЅСѓР¶РЅСѓСЋ РІР°Рј Р±Р°Р·Сѓ Р·РЅР°РЅРёР№ РІ #LINK1#РѕР±С‰РµРј СЃРїРёСЃРєРµ#LINK2#";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_KNOWLEDGE"] = "РћС‚РїСЂР°РІСЊС‚Рµ Р·Р°РїСЂРѕСЃ РЅР° РґРѕСЃС‚СѓРї РѕРґРЅРѕРјСѓ РёР· РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№, РєРѕС‚РѕСЂС‹Р№ СЃРјРѕР¶РµС‚ РІС‹РґР°С‚СЊ РІР°Рј СЂР°Р·СЂРµС€РµРЅРёРµ РЅР° РїСЂРѕСЃРјРѕС‚СЂ Р±Р°Р·С‹ Р·РЅР°РЅРёР№";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_GROUP"] = "Р’СЃС‚СѓРїРёС‚Рµ РІ РіСЂСѓРїРїСѓ РёР»Рё СЃРґРµР»Р°Р№С‚Рµ Р·Р°РїСЂРѕСЃ РЅР° РІСЃС‚СѓРїР»РµРЅРёРµ С‡РµСЂРµР· РїСЂРѕС„Р°Р№Р» #LINK1#СЂР°Р±РѕС‡РµР№ РіСЂСѓРїРїС‹#LINK2#.";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_ASK"] = "РћС‚РїСЂР°РІРёС‚СЊ Р·Р°РїСЂРѕСЃ";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_GROUP"] = "РџРµСЂРµР№С‚Рё РІ РіСЂСѓРїРїСѓ";
+$MESS["LANDING_TPL_ACCESS_ASK_TITLE_KNOWLEDGE"] = "Р—Р°РїСЂРѕСЃ РґРѕСЃС‚СѓРїР°";
+$MESS["LANDING_TPL_ACCESS_ASK_HEADER_KNOWLEDGE"] = "Р‘Р°Р·Р° Р·РЅР°РЅРёР№ Р·Р°РєСЂС‹С‚Р° РґР»СЏ РїСѓР±Р»РёС‡РЅРѕРіРѕ РїСЂРѕСЃРјРѕС‚СЂР°";
+$MESS["LANDING_TPL_ACCESS_ASK_DESCRIPTION_KNOWLEDGE"] = "РћС‚РїСЂР°РІСЊС‚Рµ Р·Р°РїСЂРѕСЃ РѕРґРЅРѕРјСѓ РёР· РїРѕР»СЊР·РѕРІР°С‚РµР»РµР№, С‡С‚РѕР±С‹ РїРѕР»СѓС‡РёС‚СЊ СЂР°Р·СЂРµС€РµРЅРёРµ РЅР° РїСЂРѕСЃРјРѕС‚СЂ Р±Р°Р·С‹ Р·РЅР°РЅРёР№.";
+$MESS["LANDING_TPL_ACCESS_ASK_SEND_KNOWLEDGE"] = "Р—Р°РїСЂРѕСЃРёС‚СЊ РґРѕСЃС‚СѓРї";
+?>

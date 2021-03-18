@@ -1,0 +1,26 @@
+<?
+$MESS["JS_UI_TUTOR_TITLE"] = "РќР°СЃС‚Р°РІРЅРёРє";
+$MESS["JS_UI_TUTOR_BTN_BEGIN"] = "РќР°С‡Р°С‚СЊ";
+$MESS["JS_UI_TUTOR_BTN_START"] = "РџСЂРёСЃС‚СѓРїРёС‚СЊ";
+$MESS["JS_UI_TUTOR_BTN_SKIP"] = "РџСЂРѕРїСѓСЃС‚РёС‚СЊ";
+$MESS["JS_UI_TUTOR_BTN_REPEAT"] = "РџРѕРІС‚РѕСЂРёС‚СЊ";
+$MESS["JS_UI_TUTOR_BTN_DEFER"] = "РѕС‚Р»РѕР¶РёС‚СЊ";
+$MESS["JS_UI_TUTOR_BTN_NEXT"] = "Р”Р°Р»РµРµ";
+$MESS["JS_UI_TUTOR_BTN_COMPLETED"] = "Р—Р°РґР°РЅРёРµ РІС‹РїРѕР»РЅРµРЅРѕ";
+$MESS["JS_UI_TUTOR_BTN_COMPLETED_SHORT"] = "РІС‹РїРѕР»РЅРµРЅРѕ";
+$MESS["JS_UI_TUTOR_BTN_SUPPORT"] = "РџРѕРјРѕС‰СЊ";
+$MESS["JS_UI_TUTOR_COUNTER_TEXT"] = "Р—Р°РґР°РЅРёРµ";
+$MESS["JS_UI_TUTOR_COUNTER_NUMBER"] = "РЁР°Рі #NUMBER# РёР· #NUMBER_TOTAL#";
+$MESS["JS_UI_TUTOR_STEP_TITLE"] = "Р—Р°РґР°РЅРёРµ";
+$MESS["JS_UI_TUTOR_ARTICLE_HELP_TOPIC"] = "РџСЂРѕС‡РёС‚Р°С‚СЊ СЃС‚Р°С‚СЊРё РїРѕ С‚РµРјРµ";
+$MESS["JS_UI_TUTOR_STEP_COMPLETED"] = "Р—Р°РґР°РЅРёРµ РІС‹РїРѕР»РЅРµРЅРѕ";
+$MESS["JS_UI_TUTOR_FINAL_TEXT"] = "Р’С‹ СѓСЃРїРµС€РЅРѕ РїСЂРѕС€Р»Рё РЅР°СЃС‚Р°РІРЅРёРєР°!";
+$MESS["JS_UI_TUTOR_FINAL_NOTICE"] = "Р’СЃРµ Р·Р°РґР°РЅРёСЏ РІС‹РїРѕР»РЅРµРЅС‹";
+$MESS["JS_UI_TUTOR_FINAL_CONGRATULATIONS"] = "РџРѕР·РґСЂР°РІР»СЏРµРј!";
+$MESS["JS_UI_TUTOR_STEP_NEW"] = "РќРѕ СЃРµР№С‡Р°СЃ РІ РЅРµРј РїРѕСЏРІРёР»РёСЃСЊ РЅРѕРІС‹Рµ С€Р°РіРё, С…РѕС‚РёС‚Рµ РёС… РїСЂРѕР№С‚Рё";
+$MESS["JS_UI_TUTOR_CLOSE_POPUP_BTN"] = "Р’РµСЂРЅСѓСЃСЊ РїРѕР·Р¶Рµ";
+$MESS["JS_UI_TUTOR_CLOSE_POPUP_TEXT"] = "РҐРѕС‚РёС‚Рµ РІРµСЂРЅСѓС‚СЊСЃСЏ Рє РЅР°СЃС‚Р°РІРЅРёРєСѓ РїРѕР·Р¶Рµ РёР»Рё СЃРѕРІСЃРµРј Р·Р°РєСЂС‹С‚СЊ?";
+$MESS["JS_UI_TUTOR_DEFER_MENU_HOUR"] = "РќР° С‡Р°СЃ";
+$MESS["JS_UI_TUTOR_DEFER_MENU_TOMORROW"] = "Р”Рѕ Р·Р°РІС‚СЂР°";
+$MESS["JS_UI_TUTOR_DEFER_MENU_WEEK"] = "РќР° РЅРµРґРµР»СЋ";
+$MESS["JS_UI_TUTOR_DEFER_MENU_FOREVER"] = "РќР°РІСЃРµРіРґР°";

@@ -1,0 +1,4 @@
+<?php
+$MESS["MAIN_FIELD_CONFIG_LIST_DETAIL_TITLE"] = "РќР°СЃС‚СЂРѕР№РєРё РїРѕР»РµР№";
+$MESS["MAIN_FIELD_CONFIG_LIST_BOOLEAN_YES"] = "Р”Р°";
+$MESS["MAIN_FIELD_CONFIG_LIST_BOOLEAN_NO"] = "РќРµС‚";

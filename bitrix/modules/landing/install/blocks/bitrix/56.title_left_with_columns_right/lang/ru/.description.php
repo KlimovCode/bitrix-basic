@@ -1,0 +1,8 @@
+<?php
+$MESS['LANDING_BLOCK_56.1.TITLE_LEFT_WITH_COLUMNS_RIGHT_NAME'] = 'Р‘Р»РѕРє СЃ Р·Р°РіРѕР»РѕРІРєРѕРј СЃР»РµРІР° Рё РєРѕР»РѕРЅРєР°РјРё СЃРїСЂР°РІР°';
+$MESS['LANDING_BLOCK_56.1.TITLE_LEFT_WITH_COLUMNS_RIGHT_NODE_CARD_TEXT_BLOCK'] = 'РўРµРєСЃС‚РѕРІС‹Р№ Р±Р»РѕРє';
+$MESS['LANDING_BLOCK_56.1.TITLE_LEFT_WITH_COLUMNS_RIGHT_NODE_CARD_TEXT'] = 'РўРµРєСЃС‚';
+$MESS['LANDING_BLOCK_56.1.TITLE_LEFT_WITH_COLUMNS_RIGHT_NODE_TITLE'] = 'Р—Р°РіРѕР»РѕРІРѕРє';
+$MESS['LANDING_BLOCK_56.1.TITLE_LEFT_WITH_COLUMNS_RIGHT_NODE_TEXTS'] = 'Р‘Р»РѕРє';
+
+

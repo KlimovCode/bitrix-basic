@@ -1,0 +1,22 @@
+<?php
+$MESS['LANDING_BLOCK_0.MENU_1_NAME_NEW'] = 'РњРµРЅСЋ РёР· С€Р°Р±Р»РѕРЅР° В«Р¤РѕС‚РѕРіСЂР°С„РёСЏВ», СЃРІРµСЂС…Сѓ РєРѕРЅС‚Р°РєС‚С‹, РІРЅРёР·Сѓ РјРµРЅСЋ СЃ Р»РѕРіРѕС‚РёРїРѕРј СЃР»РµРІР° Рё РїСѓРЅРєС‚Р°РјРё РјРµРЅСЋ СЃРїСЂР°РІР°';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULIST'] = 'РњРµРЅСЋ';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULISTITEMLINK'] = 'РџСѓРЅРєС‚ РјРµРЅСЋ';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENU_CARD_CONTACT'] = 'РљРѕРЅС‚Р°РєС‚';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULOGOLINK'] = 'РЎСЃС‹Р»РєР° РЅР° Р»РѕРіРѕС‚РёРїРµ';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENULOGO'] = 'Р›РѕРіРѕС‚РёРї';
+$MESS['LANDING_BLOCK_0.MENU_1_STYLE_LANDINGBLOCKNODEMENULISTITEMLINK'] = 'РџСѓРЅРєС‚ РјРµРЅСЋ';
+$MESS['LANDING_BLOCK_0.MENU_1_STYLE_LANDINGBLOCKNODEMENULIST'] = 'РњРµРЅСЋ';
+$MESS['LANDING_BLOCK_0.MENU_1_STYLE_LANDINGBLOCKNODE_TOP_BLOCK'] = 'Р’РµСЂС…РЅРёР№ Р±Р»РѕРє';
+$MESS['LANDING_BLOCK_0.MENU_1_STYLE_LANDINGBLOCKNODE_BOTTOM_BLOCK'] = 'РќРёР¶РЅРёР№ Р±Р»РѕРє';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENUCONTACTTITLE_NEW'] = 'Р—Р°РіРѕР»РѕРІРѕРє';
+$MESS['LANDING_BLOCK_0.MENU_1_NODES_LANDINGBLOCKNODEMENUCONTACT_TEXT'] = 'РўРµРєСЃС‚';
+$MESS['LANDING_BLOCK_MENU_15_NODE_MENUCONTACTLINK'] = 'РЎСЃС‹Р»РєР°';
+$MESS['LANDING_BLOCK_MENU_15_SOCIAL_ITEMLINK'] = 'РЎСЃС‹Р»РєР°';
+$MESS['LANDING_BLOCK_MENU_15_SOCIAL_ITEMICON'] = 'Р�РєРѕРЅРєР°';
+$MESS['LANDING_BLOCK_MENU_15_SOCIAL_ITEM'] = 'РЎРѕС†РёР°Р»СЊРЅР°СЏ РєРЅРѕРїРєР°';
+
+$MESS['LNDNGBLCK15_CARD_LABEL_1'] = 'РџСѓРЅРєС‚С‹ РјРµРЅСЋ';
+$MESS['LNDNGBLCK15_CARD_LABEL_2'] = 'РљРѕРЅС‚Р°РєС‚С‹';
+$MESS['LNDNGBLCK15_CARD_LABEL_3'] = 'РљРЅРѕРїРєРё СЃРѕС†СЃРµС‚РµР№';
+?>

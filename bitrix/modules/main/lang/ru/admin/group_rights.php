@@ -1,0 +1,6 @@
+<?
+$MESS["group_rights_select"] = "(РІС‹Р±РµСЂРёС‚Рµ РіСЂСѓРїРїСѓ)";
+$MESS["group_rights_add"] = "Р”РѕР±Р°РІРёС‚СЊ РїСЂР°РІРѕ РґРѕСЃС‚СѓРїР°";
+$MESS["group_rights_sites_all"] = "Р’СЃРµ СЃР°Р№С‚С‹";
+$MESS["group_rights_default"] = "РџРѕ СѓРјРѕР»С‡Р°РЅРёСЋ";
+?>

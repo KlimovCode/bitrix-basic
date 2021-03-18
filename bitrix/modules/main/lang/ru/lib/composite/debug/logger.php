@@ -1,0 +1,24 @@
+<?
+$MESS["MAIN_COMPOSITE_LOG_MESSAGE"] = "РЎРѕРѕР±С‰РµРЅРёРµ";
+$MESS["MAIN_COMPOSITE_LOG_BUFFER_RESTART"] = "Р’С‹Р·РѕРІ RestartBuffer";
+$MESS["MAIN_COMPOSITE_LOG_CACHE_REWRITING"] = "РџРµСЂРµР·Р°РїРёСЃСЊ РєРµС€Р°";
+$MESS["MAIN_COMPOSITE_LOG_COMPONENT_VOTING"] = "Р“РѕР»РѕСЃРѕРІР°РЅРёРµ РєРѕРјРїРѕРЅРµРЅС‚Р° \"РџСЂРѕС‚РёРІ\"";
+$MESS["MAIN_COMPOSITE_LOG_AJAX_REQUEST"] = "Ajax-Р·Р°РїСЂРѕСЃ";
+$MESS["MAIN_COMPOSITE_LOG_NCC_PARAMETER"] = "РџР°СЂР°РјРµС‚СЂ ncc";
+$MESS["MAIN_COMPOSITE_LOG_BITRIX_FOLDER"] = "Р”РёСЂРµРєС‚РѕСЂРёСЏ /bitrix/";
+$MESS["MAIN_COMPOSITE_LOG_CONTROLLER_FILE"] = "Р¤Р°Р№Р» index_controller.php";
+$MESS["MAIN_COMPOSITE_LOG_GET_METHOD_ONLY"] = "РќРµ GET-Р·Р°РїСЂРѕСЃ";
+$MESS["MAIN_COMPOSITE_LOG_SESSID_PARAMETER"] = "РџР°СЂР°РјРµС‚СЂ sessid";
+$MESS["MAIN_COMPOSITE_LOG_NCC_COOKIE"] = "Cookie NCC";
+$MESS["MAIN_COMPOSITE_LOG_CC_COOKIE_NOT_FOUND"] = "Cookie CC РЅРµ РЅР°Р№РґРµРЅР°";
+$MESS["MAIN_COMPOSITE_LOG_EXCLUDE_MASK"] = "РњР°СЃРєР° РёСЃРєР»СЋС‡РµРЅРёСЏ";
+$MESS["MAIN_COMPOSITE_LOG_EXCLUDE_PARAMETER"] = "РџР°СЂР°РјРµС‚СЂ-РёСЃРєР»СЋС‡РµРЅРёРµ";
+$MESS["MAIN_COMPOSITE_LOG_INCLUDE_MASK"] = "РњР°СЃРєР° РІРєР»СЋС‡РµРЅРёСЏ";
+$MESS["MAIN_COMPOSITE_LOG_INVALID_HOST"] = "РќРµРІРµСЂРЅС‹Р№ РґРѕРјРµРЅ";
+$MESS["MAIN_COMPOSITE_LOG_INVALID_QUERY_STRING"] = "РќРµРІРµСЂРЅС‹Р№ РїР°СЂР°РјРµС‚СЂ Р·Р°РїСЂРѕСЃР°";
+$MESS["MAIN_COMPOSITE_LOG_ADMIN_PANEL"] = "РђРґРјРёРЅРёСЃС‚СЂР°С‚РёРІРЅР°СЏ РїР°РЅРµР»СЊ";
+$MESS["MAIN_COMPOSITE_LOG_LOCAL_REDIRECT"] = "Р›РѕРєР°Р»СЊРЅС‹Р№ СЂРµРґРёСЂРµРєС‚ (LocalRedirect)";
+$MESS["MAIN_COMPOSITE_LOG_PHP_SHUTDOWN"] = "РђРІР°СЂРёР№РЅРѕРµ Р·Р°РІРµСЂС€РµРЅРёРµ PHP (die)";
+$MESS["MAIN_COMPOSITE_LOG_COMPOSITE_NOT_INJECTED"] = "РљРѕРјРїРѕР·РёС‚РЅС‹Р№ Javascript РЅРµ РІРЅРµРґСЂРµРЅ";
+$MESS["MAIN_COMPOSITE_LOG_PAGE_NOT_CACHEABLE"] = "РЎС‚СЂР°РЅРёС†Р° РїСЂРѕС‚РёРІ РєРµС€РёСЂРѕРІР°РЅРёСЏ (markNonCacheable)";
+$MESS["MAIN_COMPOSITE_LOG_CACHE_RESET"] = "РЎР±СЂРѕСЃ РєРµС€Р°";

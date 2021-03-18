@@ -1,0 +1,7 @@
+<?php
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-FOOTER-NAME'] = 'РџРѕРґРІР°Р»';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-FOOTER-TEXT1'] = 'Рћ РЅР°СЃ';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-FOOTER-TEXT2'] = 'РљРѕРЅС‚Р°РєС‚С‹';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-FOOTER-TEXT3'] = 'Р�РЅС„РѕСЂРјР°С†РёСЏ РѕР± РѕРїР»Р°С‚Рµ';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-FOOTER-TEXT4'] = 'Р¤РѕСЂРјР° РґР»СЏ СЃРІСЏР·Рё';
+$MESS['LANDING_DEMO_STORE_CHATS_DARK-FOOTER-TEXT5'] = 'Р’РёР·РёС‚РєР°';

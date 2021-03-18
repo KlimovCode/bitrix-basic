@@ -1,0 +1,62 @@
+<?
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_1"] = "РЇРЅРІР°СЂСЊ";
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_2"] = "Р¤РµРІСЂР°Р»СЊ";
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_3"] = "РњР°СЂС‚";
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_4"] = "РђРїСЂРµР»СЊ";
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_5"] = "РњР°Р№";
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_6"] = "Р�СЋРЅСЊ";
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_7"] = "Р�СЋР»СЊ";
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_8"] = "РђРІРіСѓСЃС‚";
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_9"] = "РЎРµРЅС‚СЏР±СЂСЊ";
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_10"] = "РћРєС‚СЏР±СЂСЊ";
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_11"] = "РќРѕСЏР±СЂСЊ";
+$MESS["MAIN_UI_FILTER_FIELD_MONTH_12"] = "Р”РµРєР°Р±СЂСЊ";
+$MESS["MAIN_UI_FILTER_FIELD_QUARTER_1"] = "I";
+$MESS["MAIN_UI_FILTER_FIELD_QUARTER_2"] = "II";
+$MESS["MAIN_UI_FILTER_FIELD_QUARTER_3"] = "III";
+$MESS["MAIN_UI_FILTER_FIELD_QUARTER_4"] = "IV";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_NONE"] = "Р›СЋР±Р°СЏ РґР°С‚Р°";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_YESTERDAY"] = "Р’С‡РµСЂР°";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CURRENT_DAY"] = "РЎРµРіРѕРґРЅСЏ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_TOMORROW"] = "Р—Р°РІС‚СЂР°";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CURRENT_WEEK"] = "РўРµРєСѓС‰Р°СЏ РЅРµРґРµР»СЏ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_NEXT_WEEK"] = "РЎР»РµРґСѓСЋС‰Р°СЏ РЅРµРґРµР»СЏ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CURRENT_MONTH"] = "РўРµРєСѓС‰РёР№ РјРµСЃСЏС†";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_NEXT_MONTH"] = "РЎР»РµРґСѓСЋС‰РёР№ РјРµСЃСЏС†";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_PREV_DAYS"] = "РџРѕСЃР»РµРґРЅРёРµ N РґРЅРµР№";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_NEXT_DAYS"] = "РЎР»РµРґСѓСЋС‰РёРµ N РґРЅРµР№";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CURRENT_QUARTER"] = "РўРµРєСѓС‰РёР№ РєРІР°СЂС‚Р°Р»";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_LAST_7_DAYS"] = "РџРѕСЃР»РµРґРЅРёРµ 7 РґРЅРµР№";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_LAST_30_DAYS"] = "РџРѕСЃР»РµРґРЅРёРµ 30 РґРЅРµР№";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_LAST_60_DAYS"] = "РџРѕСЃР»РµРґРЅРёРµ 60 РґРЅРµР№";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_LAST_90_DAYS"] = "РџРѕСЃР»РµРґРЅРёРµ 90 РґРЅРµР№";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_MONTH"] = "РњРµСЃСЏС†";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_QUARTER"] = "РљРІР°СЂС‚Р°Р»";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_YEAR"] = "Р“РѕРґ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_EXACT"] = "РўРѕС‡РЅР°СЏ РґР°С‚Р°";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_LAST_WEEK"] = "РџСЂРѕС€Р»Р°СЏ РЅРµРґРµР»СЏ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_LAST_MONTH"] = "РџСЂРѕС€Р»С‹Р№ РјРµСЃСЏС†";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_RANGE"] = "Р”РёР°РїР°Р·РѕРЅ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE"] = "РџСЂРѕРёР·РІРѕР»СЊРЅР°СЏ РґР°С‚Р°";
+$MESS["MAIN_UI_FILTER_FIELD_DAYS"] = "Р”РµРЅСЊ";
+$MESS["MAIN_UI_FILTER_FIELD_MONTHS"] = "РњРµСЃСЏС†";
+$MESS["MAIN_UI_FILTER_FIELD_YEARS"] = "Р“РѕРґ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_PREV_DAY"] = "РџСЂРµРґС‹РґСѓС‰РёР№ N РґРµРЅСЊ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_NEXT_DAY"] = "РЎР»РµРґСѓСЋС‰РёР№ N РґРµРЅСЊ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_MORE_THAN_DAYS_AGO"] = "Р‘РѕР»РµРµ N РґРЅРµР№ РЅР°Р·Р°Рґ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_AFTER_DAYS"] = "Р§РµСЂРµР· N РґРЅРµР№";
+
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE_TODAY"] = "РЎРµРіРѕРґРЅСЏ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE_YESTERDAY"] = "Р’С‡РµСЂР°";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE_TOMORROW"] = "Р—Р°РІС‚СЂР°";
+
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE_CURRENT_MONTH"] = "РўРµРєСѓС‰РёР№";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE_LAST_MONTH"] = "РџСЂРѕС€Р»С‹Р№";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE_NEXT_MONTH"] = "РЎР»РµРґСѓСЋС‰РёР№";
+
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE_CURRENT_YEAR"] = "РўРµРєСѓС‰РёР№";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE_LAST_YEAR"] = "РџСЂРѕС€Р»С‹Р№";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE_NEXT_YEAR"] = "РЎР»РµРґСѓСЋС‰РёР№";
+
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE_YEARS_SWITCHER_YES"] = "РЈС‡РёС‚С‹РІР°С‚СЊ РіРѕРґ";
+$MESS["MAIN_UI_FILTER_FIELD_SUBTYPE_CUSTOM_DATE_YEARS_SWITCHER_NO"] = "РќРµ СѓС‡РёС‚С‹РІР°С‚СЊ РіРѕРґ";

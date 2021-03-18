@@ -1,0 +1,4 @@
+<?php
+$MESS['LANDING_BLOCK_27_3_ONE_COL_FIX_TITLE_AND_TEXT_2_NAME_NEW'] = 'Р—Р°РіРѕР»РѕРІРѕРє С„РёРєСЃРёСЂРѕРІР°РЅРЅРѕР№ С€РёСЂРёРЅС‹';
+$MESS['LANDING_BLOCK_27_3_ONE_COL_FIX_TITLE_AND_TEXT_2_NODES_LANDINGBLOCKNODETITLE'] = 'Р—Р°РіРѕР»РѕРІРѕРє';
+$MESS['LANDING_BLOCK_27_3_ONE_COL_FIX_TITLE_AND_TEXT_2_STYLE_LANDINGBLOCKNODETITLE'] = 'Р—Р°РіРѕР»РѕРІРѕРє';

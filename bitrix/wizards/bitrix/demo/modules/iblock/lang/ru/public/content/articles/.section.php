@@ -1,0 +1,3 @@
+<?
+$MESS ['DEMO_IBLOCK_CONTENT_ARTICLES_SECTION_NAME'] = "РЎС‚Р°С‚СЊРё";
+?>

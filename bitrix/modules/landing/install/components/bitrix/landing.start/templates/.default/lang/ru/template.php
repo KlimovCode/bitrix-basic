@@ -1,0 +1,19 @@
+<?php
+$MESS['LANDING_TPL_ADD_SITE'] = 'РЎРѕР·РґР°С‚СЊ СЃР°Р№С‚';
+$MESS['LANDING_TPL_ADD_SITE_PAGE'] = 'РЎРѕР·РґР°С‚СЊ СЃР°Р№С‚';
+$MESS['LANDING_TPL_ADD_SITE_STORE'] = 'РЎРѕР·РґР°С‚СЊ РјР°РіР°Р·РёРЅ';
+$MESS['LANDING_TPL_ADD_SITE_KNOWLEDGE'] = 'РЎРѕР·РґР°С‚СЊ Р±Р°Р·Сѓ Р·РЅР°РЅРёР№';
+$MESS['LANDING_TPL_ADD_PAGE'] = 'РќРѕРІР°СЏ СЃС‚СЂР°РЅРёС†Р°';
+$MESS['LANDING_TPL_ACCEPT'] = 'РЇ СЃРѕРіР»Р°СЃРµРЅ';
+$MESS['LANDING_TPL_ACCEPTED'] = 'Р’С‹ СѓР¶Рµ РґР°Р»Рё СЃРѕРіР»Р°СЃРёРµ';
+$MESS['LANDING_TPL_JS_PAY_TARIFF'] = 'РџРµСЂРµР№С‚Рё РЅР° СЂР°СЃС€РёСЂРµРЅРЅС‹Р№ С‚Р°СЂРёС„';
+$MESS['LANDING_TPL_JS_PAY_TARIFF_TITLE'] = 'РћРіСЂР°РЅРёС‡РµРЅРёРµ РїРѕ С‚Р°СЂРёС„Сѓ';
+$MESS['LANDING_TPL_MENU_SITES'] = 'РЎРїРёСЃРѕРє СЃР°Р№С‚РѕРІ';
+$MESS['LANDING_TPL_MENU_SITES_KNOWLEDGE'] = 'Р‘Р°Р·Р° Р·РЅР°РЅРёР№';
+$MESS['LANDING_TPL_MENU_RIGHTS'] = 'РџСЂР°РІР° РґРѕСЃС‚СѓРїР°';
+$MESS['LANDING_TPL_MENU_AGREEMENT'] = 'РЎРѕРіР»Р°С€РµРЅРёРµ';
+$MESS['LANDING_TPL_SETTING_SITE'] = 'РќР°СЃС‚СЂРѕР№РєРё СЃР°Р№С‚Р°';
+$MESS['LANDING_TPL_IMPORT_SITE_PAGE'] = 'Р�РјРїРѕСЂС‚ СЃР°Р№С‚Р°';
+$MESS['LANDING_TPL_IMPORT_SITE_KNOWLEDGE'] = 'Р�РјРїРѕСЂС‚ Р±Р°Р·С‹ Р·РЅР°РЅРёР№';
+$MESS['LANDING_TPL_IMPORT_SITE_STORE'] = 'Р�РјРїРѕСЂС‚ РјР°РіР°Р·РёРЅР°';
+$MESS['LANDING_TPL_SETTING_CATALOG'] = 'РќР°СЃС‚СЂРѕР№РєРё РєР°С‚Р°Р»РѕРіР°';
