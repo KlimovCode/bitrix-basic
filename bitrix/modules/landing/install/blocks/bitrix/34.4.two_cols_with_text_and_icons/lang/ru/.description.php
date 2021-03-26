@@ -1,7 +1,0 @@
-<?php
-$MESS['LANDING_BLOCK_34.4_NAME'] = 'РЎРїРёСЃРѕРє РІРѕР·РјРѕР¶РЅРѕСЃС‚РµР№ РІ 2 РєРѕР»РѕРЅРєРё СЃ РёРєРѕРЅРєР°РјРё';
-$MESS['LANDING_BLOCK_34.4_CARDS_LANDINGBLOCK_INNER'] = 'Р‘Р»РѕРє';
-$MESS['LANDING_BLOCK_34.4_CARDS_LANDINGBLOCKNODECARD'] = 'РљРѕР»РѕРЅРєР°';
-$MESS['LANDING_BLOCK_34.4_NODES_LANDINGBLOCKNODECARDICON'] = 'Р�РєРѕРЅРєР°';
-$MESS['LANDING_BLOCK_34.4_NODES_LANDINGBLOCKNODECARDTEXT'] = 'РўРµРєСЃС‚';
-$MESS['LANDING_BLOCK_34.4_NODES_LANDINGBLOCKNODECARDTITLE'] = 'Р—Р°РіРѕР»РѕРІРѕРє';

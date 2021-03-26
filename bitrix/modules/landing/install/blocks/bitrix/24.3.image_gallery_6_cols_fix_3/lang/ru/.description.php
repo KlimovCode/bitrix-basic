@@ -1,5 +1,0 @@
-<?php
-$MESS['LANDING_BLOCK_24.3.IMAGE_GALLERY_6_COLS_FIX_3_NAME'] = 'Р›РѕРіРѕС‚РёРїС‹ РїР°СЂС‚РЅРµСЂРѕРІ РІ СЂСЏРґ РЅР° СЃРІРµС‚Р»РѕРј С„РѕРЅРµ';
-$MESS['LANDING_BLOCK_24.3.IMAGE_GALLERY_6_COLS_FIX_3_CARDS_LANDINGBLOCKNODECARD'] = 'Р›РѕРіРѕС‚РёРї';
-$MESS['LANDING_BLOCK_24.3.IMAGE_GALLERY_6_COLS_FIX_3_NODES_LANDINGBLOCKNODEIMG'] = 'Р›РѕРіРѕС‚РёРї';
-$MESS['LANDING_BLOCK_24.3.IMAGE_GALLERY_6_COLS_FIX_3_NODES_LANDINGBLOCKCARDLOGOLINK'] = 'РЎСЃС‹Р»РєР° РЅР° Р»РѕРіРѕС‚РёРїРµ';

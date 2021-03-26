@@ -1,5 +1,0 @@
-<?
-$MESS ['DEMO_IBLOCK_ESTORE_REVIEWS_TITLE'] = "Р РµС†РµРЅР·РёРё";
-$MESS ['DEMO_IBLOCK_ESTORE_REVIEWS_DETAIL_PAGER_TITLE'] = "РЎС‚СЂР°РЅРёС†Р°";
-$MESS ['DEMO_IBLOCK_ESTORE_REVIEWS_PAGER_TITLE'] = "Р РµС†РµРЅР·РёРё";
-?>

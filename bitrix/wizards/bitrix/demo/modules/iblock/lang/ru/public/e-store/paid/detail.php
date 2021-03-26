@@ -1,4 +1,0 @@
-<?
-$MESS ['DEMO_IBLOCK_ESTORE_PAID_DETAIL_TITLE'] = "РЎС‚Р°С‚СЊСЏ";
-$MESS ['DEMO_IBLOCK_ESTORE_PAID_DETAIL_PAGER_TITLE'] = "РЎС‚СЂР°РЅРёС†Р°";
-?>

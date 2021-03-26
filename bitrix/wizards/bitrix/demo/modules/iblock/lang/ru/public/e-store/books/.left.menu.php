@@ -1,4 +1,0 @@
-<?
-$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_MENU_AUTHORS'] = "РђРІС‚РѕСЂС‹";
-$MESS ['DEMO_IBLOCK_ESTORE_BOOKS_MENU_REVIEWS'] = "Р РµС†РµРЅР·РёРё";
-?>

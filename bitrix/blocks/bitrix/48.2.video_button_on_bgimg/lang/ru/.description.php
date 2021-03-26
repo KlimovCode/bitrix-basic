@@ -1,5 +1,0 @@
-<?php
-$MESS['LANDING_BLOCK_48.2.VIDEO_BUTTON_ON_BGIMG_NAME'] = 'РћР±Р»РѕР¶РєР° СЃ РєРЅРѕРїРєРѕР№ РІРёРґРµРѕ РЅР° С„РѕРЅРѕРІРѕР№ РєР°СЂС‚РёРЅРєРµ';
-$MESS['LANDING_BLOCK_48.2.VIDEO_BUTTON_ON_BGIMG_NODES_LANDINGBLOCKNODEBGIMG'] = 'Р¤РѕРЅРѕРІР°СЏ РєР°СЂС‚РёРЅРєР°';
-$MESS['LANDING_BLOCK_48.2.VIDEO_BUTTON_ON_BGIMG_NODES_LANDINGBLOCKNODETEXT'] = 'РўРµРєСЃС‚';
-$MESS['LANDING_BLOCK_48.2.VIDEO_BUTTON_ON_BGIMG_NODES_LANDINGBLOCKNODEBUTTON'] = 'РЎСЃС‹Р»РєР°';
